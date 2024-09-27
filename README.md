@@ -1,31 +1,33 @@
-### Olá! Eu sou o Matheus Santana! ✌️
+# Olá, eu sou Matheus! 👋
 
-![Santana GitHub stats](https://github-readme-stats.vercel.app/api?username=matssgit&show_icons=true&theme=dracula) <br/>
+Desenvolvedor **front-end** e **full stack** apaixonado por criar experiências web dinâmicas e interativas. Focado em tecnologias modernas como **JavaScript**, **TypeScript**, **React**, **Node.js**, e **Next.js**, estou sempre em busca de novos desafios para expandir meus conhecimentos e construir projetos incríveis.
 
-## Sobre Mim 👋 <br/>
-Olá! Meu nome é Matheus, e sou um entusiasta de ciência de dados com experiência anterior em tecnologias front-end. Aqui estão algumas informações sobre mim:
+## 🚀 Sobre Mim
 
-- 🌐 Já estudei desenvolvimento front-end, criando interfaces bonitas e funcionais usando HTML, CSS e JavaScript.
-- 📊 Atualmente, estou focado em ciência de dados. Estou aprendendo sobre análise exploratória, machine learning e visualização de dados.
-- 🚀 Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de dados.
+- 🌐 Experiência com **HTML**, **CSS**, **JavaScript**, e tecnologias modernas como **TypeScript**, **React**, **Node.js**, **Sass**, **Bootstrap** e **Next.js**.
+- 💼 Atualmente focado em desenvolvimento **full stack**, construindo interfaces robustas no front-end e otimizando o back-end com **Node.js**.
+- 🛠️ Adoro aprender novas tecnologias e aplicar as melhores práticas para criar soluções eficientes e escaláveis.
+- 🎯 Sempre buscando novos projetos desafiadores para aprimorar minhas habilidades e compartilhar meu conhecimento com a comunidade.
 
-## Tecnologias que eu uso no meu dia
+## 🛠️ Habilidades
 
-<div style="display: inline_block"><br/>
- <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
- <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
- <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
- <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-</div><br/>
+**Linguagens de Programação**:  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-📊 Atualmente, estou focado em ciência de dados. Estou aprendendo sobre análise exploratória, machine learning e visualização de dados.
+**Frameworks e Ferramentas**:  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-## 🛠️ Tecnologias e Ferramentas
-- [Front-end]: HTML, CSS, JavaScript, React <br/>
-- [Ciência de Dados]: Python, Pandas, Matplotlib, Jupyter Notebooks <br/>
-- [Outras habilidades]: Git, SQL <br/>
+## 🌟 Projetos em Destaque
 
-## Aprendizado Contínuo 📚
-Estou constantemente estudando e aprimorando minhas habilidades em ciência de dados. Se você também é apaixonado por dados, vamos nos conectar!
+- **[Projeto de E-commerce com React e Node.js](link-projeto)**: Desenvolvi uma aplicação de e-commerce full stack usando **React** no front-end e **Node.js** no back-end.
+- **[Portfolio Pessoal](link-projeto)**: Meu portfolio pessoal criado com **Next.js** e **Sass** para demonstrar minhas habilidades em desenvolvimento web.
+
+## 📊 Minhas Estatísticas no GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)](https://github.com/seu-usuario/github-readme-stats)
+
+## ✉️ Entre em Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-usuario/)](https://www.linkedin.com/in/seu-usuario/) [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:seuemail@email.com)
