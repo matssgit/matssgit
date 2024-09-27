@@ -1,13 +1,14 @@
 # Olá, eu sou Matheus! 👋
 
-Desenvolvedor **front-end** e **full stack** apaixonado por criar experiências web dinâmicas e interativas. Focado em tecnologias modernas como **JavaScript**, **TypeScript**, **React**, **Node.js**, e **Next.js**, estou sempre em busca de novos desafios para expandir meus conhecimentos e construir projetos incríveis.
+Sou um **estudante** de **desenvolvimento front-end** e **full stack**, apaixonado por criar experiências web dinâmicas e interativas. Estou sempre em busca de aprender novas tecnologias e aplicar meus conhecimentos em projetos práticos. Atualmente, estou à procura da minha **primeira oportunidade como programador**, onde possa crescer e contribuir com minhas habilidades.
 
 ## 🚀 Sobre Mim
 
-- 🌐 Experiência com **HTML**, **CSS**, **JavaScript**, e tecnologias modernas como **TypeScript**, **React**, **Node.js**, **Sass**, **Bootstrap** e **Next.js**.
-- 💼 Atualmente focado em desenvolvimento **full stack**, construindo interfaces robustas no front-end e otimizando o back-end com **Node.js**.
-- 🛠️ Adoro aprender novas tecnologias e aplicar as melhores práticas para criar soluções eficientes e escaláveis.
-- 🎯 Sempre buscando novos projetos desafiadores para aprimorar minhas habilidades e compartilhar meu conhecimento com a comunidade.
+- 🌐 Experiência com **HTML**, **CSS**, **JavaScript**, e tecnologias modernas como **TypeScript**, **React**, **Node.js**, **Sass**, **Bootstrap**, e **Next.js**.
+- 💼 Focado em desenvolvimento **full stack**, criando interfaces amigáveis no front-end e otimizando o back-end com **Node.js**.
+- 🎯 Buscando minha **primeira vaga como programador** para aplicar e expandir meus conhecimentos em um ambiente profissional.
+- 🛠️ Adoro aprender e aplicar as melhores práticas para criar soluções eficientes e escaláveis.
+- 🎮 Geek de coração: amo tecnologia, games e interatividade!
 
 ## 🛠️ Habilidades
 
