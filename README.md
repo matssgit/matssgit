@@ -25,9 +25,9 @@ Sou um **estudante** de **desenvolvimento front-end** e **full stack**, apaixona
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=matssgit&show_icons=true&theme=radical)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)](https://github.com/seu-usuario/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matssgit&layout=compact&theme=radical)](https://github.com/matssgit/github-readme-stats)
 
 ## ✉️ Entre em Contato
 
