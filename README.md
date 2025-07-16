@@ -1,34 +1,37 @@
-# Olá, eu sou Matheus! 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8A2BE2,100:4B0082&section=header"/>
 
-Sou um **estudante** de **desenvolvimento front-end** e **full stack**, apaixonado por criar experiências web dinâmicas e interativas. Estou sempre em busca de aprender novas tecnologias e aplicar meus conhecimentos em projetos práticos. Atualmente, estou à procura da minha **primeira oportunidade como programador**, onde possa crescer e contribuir com minhas habilidades.
+# 👋 Olá, eu sou Matheus Santana!
+<p align="left">
+  Desenvolvedor em formação e entusiasta de tecnologia, focado em transformar conceitos complexos em soluções práticas e eficientes. <br>
+  Tenho direcionado meus estudos para <strong>JavaScript</strong>, <strong>Programação Funcional</strong> e desenvolvimento <strong>FullStack</strong>, sempre buscando aplicar o aprendizado em projetos reais.
+</p>
 
-## 🚀 Sobre Mim
+## Sobre mim
 
-- 🌐 Experiência com **HTML**, **CSS**, **JavaScript**, e tecnologias modernas como **TypeScript**, **React**, **Node.js**, **Sass**, **Bootstrap**, e **Next.js**.
-- 💼 Focado em desenvolvimento **full stack**, criando interfaces amigáveis no front-end e otimizando o back-end com **Node.js**.
-- 🎯 Buscando minha **primeira vaga como programador** para aplicar e expandir meus conhecimentos em um ambiente profissional.
-- 🛠️ Adoro aprender e aplicar as melhores práticas para criar soluções eficientes e escaláveis.
-- 🎮 Geek de coração: amo tecnologia, games e interatividade!
+- 🖥️ Apaixonado por desenvolvimento de software e resolução de problemas.
+- 🎓 Autodidata, sempre em busca de novos conhecimentos e desafios.
+- 📚 Atualmente estudando: JavaScript, React, Programação Funcional e Algoritmos.
+- 🚀 Explorando o universo da Inteligência Artificial e suas aplicações práticas.
+- 💡 Você pode acompanhar minha jornada e projetos aqui no GitHub!
 
-## 🛠️ Habilidades
+---
+<br>
 
-**Linguagens de Programação**:  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[SEU-USUARIO-AQUI]/[SEU-USUARIO-AQUI]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[SEU-USUARIO-AQUI]/[SEU-USUARIO-AQUI]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[SEU-USUARIO-AQUI]/[SEU-USUARIO-AQUI]/output/pacman-contribution-graph.svg">
+</picture>
 
-**Frameworks e Ferramentas**:  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+<br>
+---
 
-## 🌟 Projetos em Destaque
+## ⭐ Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-AQUI]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-AQUI]&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-- **[Projeto de E-commerce com React e Node.js](link-projeto)**: Desenvolvi uma aplicação de e-commerce full stack usando **React** no front-end e **Node.js** no back-end.
-- **[Portfolio Pessoal](link-projeto)**: Meu portfolio pessoal criado com **Next.js** e **Sass** para demonstrar minhas habilidades em desenvolvimento web.
+## 💻 Tecnologias e Ferramentas
 
-## 📊 Minhas Estatísticas no GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=matssgit&show_icons=true&theme=radical)
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matssgit&layout=compact&theme=radical)](https://github.com/matssgit/github-readme-stats)
-
-## ✉️ Entre em Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-usuario/)](https://www.linkedin.com/in/seu-usuario/) [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:seuemail@email.com)
+### Linguagens e Fundamentos
