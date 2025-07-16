@@ -33,5 +33,6 @@
 </div>
 
 ## 💻 Tecnologias e Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,docker)](https://skillicons.dev)
 
 ### Linguagens e Fundamentos
