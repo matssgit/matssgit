@@ -13,16 +13,6 @@
 - 🚀 Explorando o universo da Inteligência Artificial e suas aplicações práticas.
 - 💡 Você pode acompanhar minha jornada e projetos aqui no GitHub!
 
----
-<br>
-
-<a href="https://github.com/matssgit">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matssgit/matssgit/output/pacman-contribution-graph.svg#gh-light-mode-only"/>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matssgit/matssgit/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only"/>
-</a>
-
-<br>
----
 
 ## ⭐ Estatísticas do GitHub
 
@@ -46,13 +36,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=matssgit&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
