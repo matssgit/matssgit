@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8A2BE2,100:4B0082&section=header"/>
 
 # 👋 Olá, eu sou Matheus Santana!
 <p align="left">
@@ -33,6 +32,34 @@
 </div>
 
 ## 💻 Tecnologias e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,docker)](https://skillicons.dev)
 
-### Linguagens e Fundamentos
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,babel,npm,webpack,nextjs,mysql)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
+
+
+<p align="center"> 
+  Como estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, minha paixão é construir soluções completas com <strong>JavaScript</strong>.
+<br><br>
+Minha jornada no desenvolvimento Fullstack começou com o <strong>Node.js</strong> no back-end, e agora estou focado em me aprofundar no ecossistema do <strong>React.js</strong> para me especializar também no front-end.
+<br><br>
+Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
+
+
+
+<p align="center">
+
+</p>
+
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=matsant.dev@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/matsant" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/matsant_" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
