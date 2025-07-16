@@ -16,11 +16,10 @@
 ---
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matssgit/matssgit/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matssgit/matssgit/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matssgit/matssgit/output/pacman-contribution-graph.svg">
-</picture>
+<a href="https://github.com/matssgit">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matssgit/matssgit/output/pacman-contribution-graph.svg#gh-light-mode-only"/>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matssgit/matssgit/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only"/>
+</a>
 
 <br>
 ---
