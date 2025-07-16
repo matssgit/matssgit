@@ -56,11 +56,11 @@ Acredito que aprender construindo é o melhor caminho, e por isso transformo teo
 
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=matsant.dev@gmail.com" title="Gmail">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=matsant.dev@gmail.com target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/matsant/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/matsant/ target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/matsant_" title="Instagram">
+  <a href="https://www.instagram.com/matsant_ target="_blank" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
