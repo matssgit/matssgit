@@ -31,6 +31,19 @@
   <img src="https://github-profile-trophy.vercel.app?username=matssgit&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+
+<div align="center">
+## 💻 Tecnologias e Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,docker)](https://skillicons.dev)
+
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,babel,npm,webpack,nextjs,mysql)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
+
+  
+</div>
 ## 💻 Tecnologias e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,docker)](https://skillicons.dev)
 
