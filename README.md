@@ -33,6 +33,8 @@
 
 
 <div align="center">
+
+  
 ## 💻 Tecnologias e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,docker)](https://skillicons.dev)
 
