@@ -46,14 +46,6 @@
 
   
 </div>
-## 💻 Tecnologias e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,docker)](https://skillicons.dev)
-
-### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,babel,npm,webpack,nextjs,mysql)](https://skillicons.dev)
-
-### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
 
 
 <p align="center"> 
