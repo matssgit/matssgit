@@ -36,7 +36,7 @@
   Sou analista de dados em formação, apaixonado por tecnologia, automação e inteligência artificial. <br>
   Atualmente foco meus estudos em Python, SQL, Machine Learning, Cloud (AWS/GCP), automação de processos e ferramentas DevOps.<br><br>
   - 🔭 Trabalhando em projetos de ingestão, análise e processamento de dados.<br>
-  - 📚 Estudando Python, ETL, Pandas, NumPy, Matplotlib, Seaborn, Flask, Spark, SQL, AWS, Docker, Kubernetes, Linux, JS, React, Node.js.<br>
+  - 📚 Estudando Python, ETL, Pandas, NumPy, Flask, Spark, SQL, AWS, Docker, Kubernetes, Linux, JS, React, Node.js.<br>
   - ⚡ No tempo livre exploro visualização de dados, crio dashboards e automatizo tarefas.
 </p>
 
@@ -53,10 +53,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"/>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/main/icons/matplotlib.svg" height="40" alt="matplotlib logo"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/main/icons/seaborn.svg" height="40" alt="seaborn logo"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo"/>
@@ -72,16 +68,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"/>
-</div>
-
-###
-
-<h3 align="left">🔥   Meus Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=matssgit&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
-</div>
-
-###
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices
