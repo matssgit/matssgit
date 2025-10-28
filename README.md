@@ -36,7 +36,7 @@
   Sou analista de dados em formação, apaixonado por tecnologia, automação e inteligência artificial. <br>
   Atualmente foco meus estudos em Python, SQL, Machine Learning, Cloud (AWS/GCP), automação de processos e ferramentas DevOps.<br><br>
   - 🔭 Trabalhando em projetos de ingestão, análise e processamento de dados.<br>
-  - 📚 Estudando Python, ETL, Pandas, NumPy, Flask, Spark, SQL, AWS, Docker, Kubernetes, Linux, JS, React, Node.js.<br>
+  - 📚 Estudando Python, ETL, Pandas, NumPy, Flask, Spark, SQL, AWS, Google Cloud, Docker, Kubernetes, Linux, JS, React, Node.js, Git, VSCode, Jira.<br>
   - ⚡ No tempo livre exploro visualização de dados, crio dashboards e automatizo tarefas.
 </p>
 
@@ -55,9 +55,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
   <img width="12" />
@@ -71,7 +77,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo"/>
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="40" alt="jira logo"/>
 </div>
 
 ###
