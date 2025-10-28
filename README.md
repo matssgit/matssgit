@@ -1,56 +1,73 @@
-
-# 👋 Olá, eu sou Matheus Santana!
-<p align="left">
-  Desenvolvedor em formação e entusiasta de tecnologia, focado em transformar conceitos complexos em soluções práticas e eficientes. <br>
-  Tenho direcionado meus estudos para <strong>JavaScript</strong>, <strong>Programação Funcional</strong> e desenvolvimento <strong>FullStack</strong>, sempre buscando aplicar o aprendizado em projetos reais.
-</p>
-
-## Sobre mim
-
-- 🖥️ Apaixonado por desenvolvimento de software e resolução de problemas.
-- 🎓 Autodidata, sempre em busca de novos conhecimentos e desafios.
-- 📚 Atualmente estudando: JavaScript, React, Programação Funcional e Algoritmos.
-- 🚀 Explorando o universo da Inteligência Artificial e suas aplicações práticas.
-- 💡 Você pode acompanhar minha jornada e projetos aqui no GitHub!
-
-
-
-  
-## 💻 Tecnologias e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,docker)](https://skillicons.dev)
-
-### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,babel,npm,webpack,nextjs,mysql)](https://skillicons.dev)
-
-### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
-
-  
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+###
 
-<p align="center"> 
-  Como estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>, minha paixão é construir soluções completas com <strong>JavaScript</strong>.
-<br><br>
-Minha jornada no desenvolvimento Fullstack começou com o <strong>Node.js</strong> no back-end, e agora estou focado em me aprofundar no ecossistema do <strong>React.js</strong> para me especializar também no front-end.
-<br><br>
-Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=matheussatana.matheussatana&"  />
+</div>
 
-<p align="center">
+###
 
+<h1 align="center">Olá, eu sou Matheus Santana! 👋</h1>
+
+###
+
+<h3 align="left">👨‍💻 Sobre Mim</h3>
+
+###
+
+<p align="left">
+  Sou analista de dados em formação, apaixonado por tecnologia, automação e inteligência artificial. <br>
+  Atualmente foco meus estudos em Python, SQL, Machine Learning, Cloud (AWS/GCP), automação de processos e ferramentas DevOps.<br><br>
+  - 🔭 Trabalhando em projetos de ingestão, análise e processamento de dados.<br>
+  - 📚 Estudando Python, ETL, Spark, Airflow, Machine Learning, AWS, Docker e Kubernetes.<br>
+  - ⚡ No tempo livre exploro visualização de dados, crio dashboards e automatizo tarefas.
 </p>
 
+###
 
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=matsant.dev@gmail.com target="_blank" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/matsant/ target="_blank" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/matsant_ target="_blank" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcp/gcp-original.svg" height="40" alt="gcp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+</div>
 
+###
+
+<h3 align="left">🔥   Meus Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=matheussatana&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
