@@ -91,7 +91,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=matssgit&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
+  <"https://github-readme-stats.vercel.app/api?username=matssgit&show_icons=true&bg_color=00000000" height="220" alt="streak graph"/>
 </div>
 
 ###
