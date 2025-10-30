@@ -86,7 +86,7 @@
 ###
 
 <div align="center">
-  <"https://github-readme-stats.vercel.app/api/pin/?username=matssgit&repo=github-readme-stats" height="220" alt="streak graph"/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=matssgit&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
 </div>
 
 ###
