@@ -86,7 +86,17 @@
 ###
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=matssgit&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=matssgit&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=matssgit&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=matssgit&show_icons=true" />
+</picture>
 </div>
 
 ###
