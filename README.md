@@ -1,89 +1,82 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matsant/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://www.youtube.com/@zmatheussantana" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="mailto:matsant.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=matheussatana.matheussatana&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=matssgit.matssgit" />
 </div>
 
 ###
 
-<h1 align="center">Olá, eu sou Matheus Santana! 👋</h1>
+<h1 align="center">Olá, eu sou o Matheus Santana 👋</h1>
 
-###
+<h3 align="center">
+Desenvolvedor Front-end em formação • JavaScript • React
+</h3>
 
-<h3 align="left">👨‍💻 Sobre Mim</h3>
+---
 
-###
+## 👨‍💻 Sobre mim
 
-<p align="left">
-  Sou analista de dados em formação, apaixonado por tecnologia, automação e inteligência artificial. <br>
-  Atualmente foco meus estudos em Python, SQL, Machine Learning, Cloud (AWS/GCP), automação de processos e ferramentas DevOps.<br><br>
-  - 🔭 Trabalhando em projetos de ingestão, análise e processamento de dados.<br>
-  - 📚 Estudando Python, ETL, Pandas, NumPy, Flask, Spark, SQL, AWS, Google Cloud, Docker, Kubernetes, Linux, JS, React, Node.js, Git, VSCode, Jira.<br>
-  - ⚡ No tempo livre exploro visualização de dados, crio dashboards e automatizo tarefas.
-</p>
+Sou desenvolvedor front-end em formação, focado em **JavaScript e construção de interfaces funcionais e bem estruturadas**.  
+Tenho preferência por trabalhar com **lógica, comportamento da aplicação e resolução de problemas**, buscando sempre escrever código claro e organizado.
 
-###
+Atualmente estou direcionando meus estudos e projetos para **entrar no mercado o mais rápido possível**, consolidando uma base sólida em front-end para evoluir com consistência ao longo da carreira.
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+- 🔭 Desenvolvendo projetos práticos com HTML, CSS e JavaScript
+- 📚 Estudando JavaScript moderno, React e fundamentos de front-end
+- 🧠 Foco em lógica, manipulação do DOM, consumo de APIs e boas práticas
+- 🎯 Objetivo: primeira oportunidade como dev front-end / júnior / estágio
 
-###
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"/>
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   Meus Stats :</h3>
+## 📌 O que você vai encontrar aqui
 
-###
+- Projetos focados em **JavaScript puro**
+- Aplicações simples e funcionais
+- Experimentos com **React**
+- Código organizado e README em todos os projetos
+- Deploys sempre que possível
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
  <picture>
@@ -96,7 +89,11 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=matssgit&show_icons=true" />
-</picture>
+ </picture>
 </div>
 
-###
+---
+
+📫 **Contato:**  
+- LinkedIn: https://www.linkedin.com/in/matsant/  
+- Email: matsant.dev@gmail.com
