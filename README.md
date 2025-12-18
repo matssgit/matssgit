@@ -37,7 +37,7 @@ Desenvolvedor Front-end em formação • JavaScript • React
 Sou desenvolvedor front-end em formação, focado em **JavaScript e construção de interfaces funcionais e bem estruturadas**.  
 Tenho preferência por trabalhar com **lógica, comportamento da aplicação e resolução de problemas**, buscando sempre escrever código claro e organizado.
 
-Atualmente estou direcionando meus estudos e projetos para **entrar no mercado o mais rápido possível**, consolidando uma base sólida em front-end para evoluir com consistência ao longo da carreira.
+Atualmente estou direcionando meus estudos e projetos para consolidar uma base sólida em front-end, com foco em JavaScript e React, evoluindo por meio de projetos práticos e consistentes.
 
 - 🔭 Desenvolvendo projetos práticos com HTML, CSS e JavaScript
 - 📚 Estudando JavaScript moderno, React e fundamentos de front-end
