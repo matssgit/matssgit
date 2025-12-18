@@ -27,7 +27,7 @@
 <h1 align="center">Olá, eu sou o Matheus Santana 👋</h1>
 
 <h3 align="center">
-Desenvolvedor Front-end em formação • JavaScript • React
+Desenvolvedor Front-end • JavaScript • React
 </h3>
 
 ---
