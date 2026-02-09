@@ -14,71 +14,66 @@
   </a>
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=matssgit.matssgit" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=matssgit.matssgit&left_color=gray&right_color=blue" />
 </div>
 
-<h1 align="center">Olá, eu sou o Matheus Santana 👋</h1>
+<h1 align="center">Hey there, I'm Matheus Santana 👋</h1>
 
 <p align="center">
-  <strong>Graduando em Análise e Desenvolvimento de Sistemas</strong><br>
-  Focado em criar soluções robustas com JavaScript, React e ecossistema Node.js
+  <strong>Software Development Student (ADS) @ 3rd Semester</strong><br>
+  Focusing on Full Stack development with JavaScript, Node.js, and Python.
 </p>
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-Sou um desenvolvedor apaixonado por resolver problemas através do código. Atualmente no 3º semestre de ADS, venho consolidando minha base em desenvolvimento Full Stack, com forte inclinação para o **JavaScript e interfaces performáticas**.
+I'm a developer in training, passionate about logic and problem-solving. Currently, I'm building a solid foundation in both Front-end and Back-end development, always striving for clean, well-structured code.
 
-- 🎓 **Educação:** Análise e Desenvolvimento de Sistemas (Prev. Formatura: Jul/2027)
-- 🚀 **Foco Atual:** Aprofundando em React, Node.js e Estrutura de Dados.
-- 🛠️ **Diferencial:** Experiência prática na construção de aplicações funcionais, priorizando código limpo (Clean Code) e lógica estruturada.
-- 🎯 **Objetivo:** Contribuir em projetos reais como Desenvolvedor Júnior ou Estagiário.
+- 🎓 **Education:** Analysis and Systems Development (Graduation: July 2027).
+- 💡 **Interests:** Clean Code, Algorithms, Web Performance, and UI/UX.
+- 🛠️ **Current Projects:** Building React applications and exploring Node.js environments.
+- 🎯 **Goal:** Looking for my first opportunity as a Junior/Intern Developer.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack & Tools
 
-**Linguagens & Frameworks**
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+**Languages & Core**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+**Dev Ops & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+### 📊 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matssgit&theme=github-dark-orange&area=true&hide_border=true" width="100%" />
 </div>
 
-**Ferramentas & Versionamento**
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</div>
-
----
-
-### 📌 Destaques do Repositório
-
-Aqui você encontrará projetos que demonstram minha evolução:
-* **Aplicações Web:** Projetos completos utilizando React e consumo de APIs.
-* **Lógica e Algoritmos:** Desafios e utilitários resolvidos com JavaScript puro e Python.
-* **Fundamentos:** Estruturas de pastas organizadas e documentação detalhada (README) em inglês e português.
-
----
-
-### 📊 GitHub Stats
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matssgit&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matssgit&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matssgit&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
 <p align="center">
-  Vamos conversar? <br>
+  Let's connect! <br>
   <a href="https://www.linkedin.com/in/matsant/">LinkedIn</a> • <a href="mailto:matsant.dev@gmail.com">Email</a>
 </p>
