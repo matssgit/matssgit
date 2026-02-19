@@ -4,20 +4,20 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matsant/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   <a href="https://www.youtube.com/@zmatheussantana" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" />
   </a>
-  <a href="mailto:matsant.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+  <a href="mailto:matsant.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=matssgit.matssgit&left_color=gray&right_color=blue" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmatssgit&count_bg=%2379C1FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </div>
 
 <h1 align="center">Hey there, I'm Matheus Santana 👋</h1>
@@ -35,7 +35,7 @@ I'm a developer in training, passionate about logic and problem-solving. Current
 
 - 🎓 **Education:** Analysis and Systems Development (Graduation: July 2027).
 - 💡 **Interests:** Clean Code, Algorithms, Web Performance, and UI/UX.
-- 🛠️ **Current Projects:** Building React applications and exploring Node.js environments.
+- 🛠️ **Current Projects:** Building React applications and exploring Node.js environments (Hair Day Project).
 - 🎯 **Goal:** Looking for my first opportunity as a Junior/Intern Developer.
 
 ---
@@ -48,6 +48,7 @@ I'm a developer in training, passionate about logic and problem-solving. Current
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
 **Dev Ops & Tools**
@@ -60,14 +61,10 @@ I'm a developer in training, passionate about logic and problem-solving. Current
 
 ---
 
-### 📊 Contribution Graph
+### 📊 Stats
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matssgit&theme=github-dark-orange&area=true&hide_border=true" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matssgit&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matssgit&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
