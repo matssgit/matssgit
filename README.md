@@ -64,12 +64,13 @@ I'm a developer in training, passionate about logic and problem-solving. Current
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matssgit&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=matssgit&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   
   <br />
 
   <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=matssgit&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
+  
 
 ---
 
