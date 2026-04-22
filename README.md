@@ -20,29 +20,29 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=matssgit.matssgit&left_color=gray&right_color=blue" />
 </div>
 
-<h1 align="center">Hey there, I'm Matheus Santana 👋</h1>
+<h1 align="center">Olá, eu sou o Matheus Santana 👋</h1>
 
 <p align="center">
-  <strong>Front-end Developer | ADS Student @ 3rd Semester</strong><br>
-  Focusing on building functional and well-structured interfaces with JavaScript, React, and TypeScript.
+  <strong>Desenvolvedor Front-end | Estudante de ADS @ 3º Semestre</strong><br>
+  Focado na construção de interfaces funcionais e bem estruturadas com JavaScript, React e TypeScript.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Sobre Mim
 
-I'm a developer in training with a solid background in **IT Infrastructure and Networks**. Currently, I'm pivoting my career to Software Development, applying my analytical skills and problem-solving experience to create modern web applications.
+Sou um desenvolvedor em formação com sólida bagagem em **Infraestrutura de TI e Redes**. Atualmente, estou em transição de carreira para o Desenvolvimento de Software, aplicando minha capacidade analítica e experiência em resolução de problemas para criar aplicações web modernas.
 
-- 🎓 **Education:** Analysis and Systems Development (Graduation: July 2027).
-- 💡 **Interests:** React Ecosystem, TypeScript, Algorithms, and UI/UX.
-- 🛠️ **Current Projects:** Hair Day (Service Scheduling System) and React/TS study projects.
-- 🎯 **Goal:** Seeking my first opportunity as a Junior Front-end Developer.
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (Previsão de formatura: Julho de 2027).
+- 💡 **Interesses:** Ecossistema React, TypeScript, Algoritmos e UI/UX.
+- 🛠️ **Projetos Atuais:** Hair Day (Sistema de Agendamento) e projetos de estudo focados em React/TS.
+- 🎯 **Objetivo:** Em busca da primeira oportunidade como Desenvolvedor Front-end Júnior/Estagiário.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tecnologias & Ferramentas
 
-**Languages & Frameworks**
+**Linguagens & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -51,7 +51,7 @@ I'm a developer in training with a solid background in **IT Infrastructure and N
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-**DevOps & Tools**
+**DevOps & Ferramentas**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -61,20 +61,20 @@ I'm a developer in training with a solid background in **IT Infrastructure and N
 
 ---
 
-### 📊 Stats
+### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=matssgit&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=matssgit&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
   
   <br />
 
-  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=matssgit&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=matssgit&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Linguagens Mais Usadas" />
 </div>
   
 
 ---
 
 <p align="center">
-  Let's connect! <br>
-  <a href="https://www.linkedin.com/in/matsant/">LinkedIn</a> • <a href="mailto:matsant.dev@gmail.com">Email</a>
+  Vamos nos conectar! <br>
+  <a href="https://www.linkedin.com/in/matsant/">LinkedIn</a> • <a href="mailto:matsant.dev@gmail.com">E-mail</a>
 </p>
