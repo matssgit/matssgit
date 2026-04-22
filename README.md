@@ -24,19 +24,19 @@
 
 <p align="center">
   <strong>Desenvolvedor Front-end | Estudante de ADS @ 3º Semestre</strong><br>
-  Focado na construção de interfaces funcionais e bem estruturadas com JavaScript, React e TypeScript.
+  Focado na construção de interfaces modernas e performáticas com JavaScript, React e TypeScript.
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor em formação com sólida bagagem em **Infraestrutura de TI e Redes**. Atualmente, estou em transição de carreira para o Desenvolvimento de Software, aplicando minha capacidade analítica e experiência em resolução de problemas para criar aplicações web modernas.
+Sou um desenvolvedor em formação com sólida bagagem prévia em **Infraestrutura de TI e Redes**. Atualmente, estou focado na transição de carreira para o Desenvolvimento de Software, unindo minha experiência em resolução de problemas com as melhores práticas de Front-end.
 
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (Previsão de formatura: Julho de 2027).
-- 💡 **Interesses:** Ecossistema React, TypeScript, Algoritmos e UI/UX.
-- 🛠️ **Projetos Atuais:** Hair Day (Sistema de Agendamento) e projetos de estudo focados em React/TS.
-- 🎯 **Objetivo:** Em busca da primeira oportunidade como Desenvolvedor Front-end Júnior/Estagiário.
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (Previsão: Julho de 2027).
+- 💡 **Interesses:** Ecossistema React, TypeScript, Clean Code e Web Performance.
+- 🛠️ **Foco Atual:** Aprofundando em React.js, TypeScript e consumo de APIs modernas.
+- 🎯 **Objetivo:** Em busca da primeira oportunidade como Desenvolvedor Front-end.
 
 ---
 
