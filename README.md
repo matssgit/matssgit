@@ -17,43 +17,41 @@
 <br />
 
 <div align="center">
-
   <img src="https://visitor-badge.laobi.icu/badge?page_id=matssgit.matssgit&left_color=gray&right_color=blue" />
-
 </div>
 
 <h1 align="center">Hey there, I'm Matheus Santana 👋</h1>
 
 <p align="center">
-  <strong>Software Development Student (ADS) @ 3rd Semester</strong><br>
-  Focusing on Full Stack development with JavaScript, Node.js, and Python.
+  <strong>Front-end Developer | ADS Student @ 3rd Semester</strong><br>
+  Focusing on building functional and well-structured interfaces with JavaScript, React, and TypeScript.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a developer in training, passionate about logic and problem-solving. Currently, I'm building a solid foundation in both Front-end and Back-end development, always striving for clean, well-structured code.
+I'm a developer in training with a solid background in **IT Infrastructure and Networks**. Currently, I'm pivoting my career to Software Development, applying my analytical skills and problem-solving experience to create modern web applications.
 
 - 🎓 **Education:** Analysis and Systems Development (Graduation: July 2027).
-- 💡 **Interests:** Clean Code, Algorithms, Web Performance, and UI/UX.
-- 🛠️ **Current Projects:** Building React applications and exploring Node.js environments (Hair Day Project).
-- 🎯 **Goal:** Looking for my first opportunity as a Junior/Intern Developer.
+- 💡 **Interests:** React Ecosystem, TypeScript, Algorithms, and UI/UX.
+- 🛠️ **Current Projects:** Hair Day (Service Scheduling System) and React/TS study projects.
+- 🎯 **Goal:** Seeking my first opportunity as a Junior Front-end Developer.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Core**
+**Languages & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-**Dev Ops & Tools**
+**DevOps & Tools**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
