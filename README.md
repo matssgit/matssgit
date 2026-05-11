@@ -30,7 +30,7 @@
 
 Sou um desenvolvedor em transição de carreira com sólida bagagem em **Infraestrutura de TI e Redes**. Minha trajetória no suporte crítico me moldou com uma visão analítica apurada, que hoje aplico no desenvolvimento de software focado em performance, lógica e arquitetura de sistemas.
 
-- 🎓 **Formação:** ADS na UniSantos (Previsão: Dezembro de 2027).
+- 🎓 **Formação:** ADS na UniSantos (Previsão: 2027).
 - 💡 **Interesses:** Arquitetura de APIs, Microsserviços, Algoritmos e Automação de Processos.
 - 🛠️ **Foco Atual:** Especialização em Backend (Java e Node.js) e fundamentos de Engenharia de Software.
 - 🎯 **Objetivo:** Em busca da primeira oportunidade como Desenvolvedor Fullstack / Backend.
