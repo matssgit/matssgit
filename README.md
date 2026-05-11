@@ -3,11 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/matsant/" target="_blank">
+  <a href="https://www.linkedin.com/in/matheussanta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
-  </a>
-  <a href="https://www.youtube.com/@zmatheussantana" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" />
   </a>
   <a href="mailto:matsant.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
@@ -23,40 +20,40 @@
 <h1 align="center">Olá, eu sou o Matheus Santana 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Front-end | Estudante de ADS @ 3º Semestre</strong><br>
-  Focado na construção de interfaces modernas e performáticas com JavaScript, React e TypeScript.
+  <strong>Desenvolvedor Fullstack | Foco em Engenharia de Backend</strong><br>
+  Unindo 7 anos de experiência em infraestrutura de TI com a construção de sistemas escaláveis e eficientes.
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor em formação com sólida bagagem prévia em **Infraestrutura de TI e Redes**. Atualmente, estou focado na transição de carreira para o Desenvolvimento de Software, unindo minha experiência em resolução de problemas com as melhores práticas de Front-end.
+Sou um desenvolvedor em transição de carreira com sólida bagagem em **Infraestrutura de TI e Redes**. Minha trajetória no suporte crítico me moldou com uma visão analítica apurada, que hoje aplico no desenvolvimento de software focado em performance, lógica e arquitetura de sistemas.
 
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (Previsão: Julho de 2027).
-- 💡 **Interesses:** Ecossistema React, TypeScript, Clean Code e Web Performance.
-- 🛠️ **Foco Atual:** Aprofundando em React.js, TypeScript e consumo de APIs modernas.
-- 🎯 **Objetivo:** Em busca da primeira oportunidade como Desenvolvedor Front-end.
+- 🎓 **Formação:** ADS na UniSantos (Previsão: Dezembro de 2027).
+- 💡 **Interesses:** Arquitetura de APIs, Microsserviços, Algoritmos e Automação de Processos.
+- 🛠️ **Foco Atual:** Especialização em Backend (Java e Node.js) e fundamentos de Engenharia de Software.
+- 🎯 **Objetivo:** Em busca da primeira oportunidade como Desenvolvedor Fullstack / Backend.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-**Linguagens & Frameworks**
+**Back-end & Linguagens**
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-**DevOps & Ferramentas**
+**Front-end & Ferramentas**
 <p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -70,11 +67,10 @@ Sou um desenvolvedor em formação com sólida bagagem prévia em **Infraestrutu
 
   <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=matssgit&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Linguagens Mais Usadas" />
 </div>
-  
 
 ---
 
 <p align="center">
   Vamos nos conectar! <br>
-  <a href="https://www.linkedin.com/in/matsant/">LinkedIn</a> • <a href="mailto:matsant.dev@gmail.com">E-mail</a>
+  <a href="https://www.linkedin.com/in/matheussanta">LinkedIn</a> • <a href="mailto:matsant.dev@gmail.com">E-mail</a>
 </p>
