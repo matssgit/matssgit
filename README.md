@@ -32,7 +32,7 @@ Sou um desenvolvedor em transição de carreira com sólida bagagem em **Infraes
 
 - 🎓 **Formação:** ADS na UniSantos (Previsão: 2027).
 - 💡 **Interesses:** Arquitetura de APIs, Microsserviços, Algoritmos e Automação de Processos.
-- 🛠️ **Foco Atual:** Especialização em Backend (Java e Node.js) e fundamentos de Engenharia de Software.
+- 🛠️ **Foco Atual:** Especialização em Backend (Java e Go) e fundamentos de Engenharia de Software.
 - 🎯 **Objetivo:** Em busca da primeira oportunidade como Desenvolvedor Fullstack / Backend.
 
 ---
