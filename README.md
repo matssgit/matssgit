@@ -32,7 +32,7 @@ Sou um Desenvolvedor Backend focado na construção de aplicações robustas, es
 
 Hoje, direciono essa base analítica para o desenvolvimento de software, criando regras de negócio consistentes e desenhando a arquitetura de soluções.
 
-- [cite_start]🎓 **Formação:** Graduação em Análise e Desenvolvimento de Sistemas — UniSantos (Previsão: 2027)[cite: 13, 14, 57, 58].
+- 🎓 **Formação:** Graduação em Análise e Desenvolvimento de Sistemas — UniSantos
 - 💡 **Interesses:** APIs RESTful, Algoritmos, Estruturas de Dados e Arquitetura de Software.
 - 🎯 **Objetivo:** Em busca da primeira oportunidade como Desenvolvedor Backend (Júnior / Estágio).
 
