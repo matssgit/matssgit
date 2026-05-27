@@ -20,7 +20,7 @@
 <h1 align="center">Olá, eu sou o Matheus Santana 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Backend • Java & Spring Boot • SQL</strong><br>
+  <strong>Software Developer | Java & Spring Boot • Microservices • SQL • API REST</strong><br>
   Unindo experiência prática em infraestrutura de TI com a engenharia de sistemas robustos e eficientes.
 </p>
 
@@ -65,6 +65,16 @@ Hoje, direciono essa base analítica para o desenvolvimento de software, criando
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
+
+
+---
+
+### 🚀 Projetos em Destaque
+
+* **[Nome do Seu Principal Projeto Java](link-do-repositorio):** API REST robusta desenvolvida com **Java** e **Spring Boot** para resolver [breve descrição do problema, ex: controle de estoque / sistema financeiro]. Implementação de **Spring Data JPA**, segurança com **Spring Security** e banco de dados **PostgreSQL**, além de containerização com **Docker**.
+* **[Nome do Segundo Projeto ou Freela](link-do-repositorio):** Sistema distribuído aplicando conceitos de **Microsserviços** e integração contínua, focado em alta disponibilidade e performance.
+
+---
 
 ---
 
