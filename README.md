@@ -67,14 +67,6 @@ Hoje, direciono essa base analítica para o desenvolvimento de software, criando
 </p>
 
 
----
-
-### 🚀 Projetos em Destaque
-
-* **[Nome do Seu Principal Projeto Java](link-do-repositorio):** API REST robusta desenvolvida com **Java** e **Spring Boot** para resolver [breve descrição do problema, ex: controle de estoque / sistema financeiro]. Implementação de **Spring Data JPA**, segurança com **Spring Security** e banco de dados **PostgreSQL**, além de containerização com **Docker**.
-* **[Nome do Segundo Projeto ou Freela](link-do-repositorio):** Sistema distribuído aplicando conceitos de **Microsserviços** e integração contínua, focado em alta disponibilidade e performance.
-
----
 
 ---
 
