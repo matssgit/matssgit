@@ -26,7 +26,7 @@
 
 ---
 
-### ### 👨‍💻 Sobre Mim
+### 👨‍💻 Sobre Mim
 
 Sou Desenvolvedor Backend com foco na construção de APIs, integração com bancos de dados e desenvolvimento de regras de negócio utilizando JavaScript, Node.js, TypeScript e Python.
 
