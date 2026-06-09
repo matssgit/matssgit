@@ -20,7 +20,7 @@
 <h1 align="center">Olá, eu sou o Matheus Santana 👋</h1>
 
 <p align="center">
-  <strong>Backend Developer | Node.js • TypeScript • Python • SQL • REST APIs</strong><br>
+  <strong>Backend Developer | Node.js • TypeScript • SQL • Python </strong><br>
   Construindo aplicações backend, APIs e soluções orientadas a dados.
 </p>
 
