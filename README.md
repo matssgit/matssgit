@@ -20,52 +20,59 @@
 <h1 align="center">Olá, eu sou o Matheus Santana 👋</h1>
 
 <p align="center">
-  <strong>Backend Developer | Node.js • TypeScript • SQL • Python </strong><br>
-  Construindo aplicações backend, APIs e soluções orientadas a dados.
+  <strong>💻 Software Developer | Node.js • TypeScript • React • SQL</strong><br>
+  Construindo aplicações, APIs e soluções orientadas a dados.
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Sou Desenvolvedor Backend com foco na construção de APIs, integração com bancos de dados e desenvolvimento de regras de negócio utilizando JavaScript, Node.js, TypeScript e Python.
+Sou Desenvolvedor de Software com foco no ecossistema JavaScript e TypeScript, direcionando meus estudos e projetos para o desenvolvimento de aplicações backend com Node.js e também para a construção de aplicações full stack utilizando React.
 
-Minha trajetória na tecnologia começou na área de suporte técnico e infraestrutura, experiência que me proporcionou uma visão sólida sobre sistemas, redes, resolução de problemas e ambientes computacionais. Hoje aplico essa base no desenvolvimento de software, criando soluções backend escaláveis e orientadas a boas práticas de engenharia.
+Minha trajetória em tecnologia começou na área de Infraestrutura, Redes e Suporte Técnico, experiência que me proporcionou uma base sólida em sistemas e resolução de problemas. Hoje aplico essa experiência no desenvolvimento de software, buscando criar aplicações bem estruturadas e evoluir continuamente como desenvolvedor.
 
-* 🎓 Análise e Desenvolvimento de Sistemas — UniSantos
-* 💡 Interesses: Backend Development, APIs REST, Banco de Dados, Arquitetura de Software e Sistemas Distribuídos
-* 🚀 Atualmente aprofundando conhecimentos em Node.js, TypeScript, PostgreSQL e desenvolvimento de APIs
-* 🎯 Objetivo: Primeira oportunidade como Desenvolvedor Backend
+* 🎓 **Análise e Desenvolvimento de Sistemas** — UniSantos (Cursando o 3º semestre)
+* 💡 **Interesses:** Backend Development, APIs REST, Banco de Dados, Arquitetura de Software e Sistemas Distribuídos
+* 🚀 **Foco Atual:** Aprofundando conhecimentos práticos em Node.js, TypeScript e ecossistema de APIs
+* ⚛️ **Front-end:** React e Next.js como ferramentas para construção de interfaces e aplicações full stack
+* 🎯 **Objetivo:** Minha primeira oportunidade como Software Developer
 
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-**Stack Principal (Back-end & Dados)**
+**Back-end & Banco de Dados**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-**Ferramentas e Estudos Atuais**
+**Front-end**
 <p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+**Ferramentas e Arquitetura**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
 </p>
 
-**Conhecimentos de Suporte & Estudos Complementares**
+**Outras Experiências & Estudos Complementares**
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
 
