@@ -20,7 +20,7 @@
 <h1 align="center">Olá, eu sou o Matheus Santana 👋</h1>
 
 <p align="center">
-  <strong>💻 Software Developer | Node.js • TypeScript • React • SQL</strong><br>
+  <strong>💻 Desenvolvedor Full Stack | Node.js • TypeScript • React • SQL</strong><br>
   Construindo aplicações, APIs e soluções orientadas a dados.
 </p>
 
