@@ -1,27 +1,30 @@
-Olá, eu sou o Matheus Santana 👋
+# Olá, eu sou o Matheus Santana 👋
 
-Software Developer | Node.js • TypeScript • React
+### Software Developer | Node.js • TypeScript • React
 
+---
 
+## 👨‍💻 Sobre Mim
 
+Sou Desenvolvedor de Software com foco em Backend utilizando Node.js e TypeScript, e também possuo experiência prática no desenvolvimento de aplicações Full Stack com React.
 
-👨‍💻 Sobre Mim
+Minha trajetória profissional teve início na área de Infraestrutura, Redes e Suporte Técnico, experiência que me proporcionou uma base sólida em sistemas, ambientes tecnológicos e resolução de problemas.
 
-Sou Desenvolvedor de Software com foco em Backend com Node.js e TypeScript, e também possuo capacidade para desenvolver aplicações Full Stack utilizando React. Minha trajetória profissional teve início na área de Infraestrutura, Redes e Suporte Técnico, o que me proporcionou uma base sólida em sistemas, ambientes tecnológicos e resolução de problemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniSantos e aprofundando meus conhecimentos em desenvolvimento Backend, construção de APIs REST e integração com bancos de dados relacionais.
+Atualmente, curso Análise e Desenvolvimento de Sistemas na UniSantos e aprofundo meus conhecimentos em desenvolvimento Backend, construção de APIs REST e integração com bancos de dados relacionais.
 
+---
 
+## 💡 Foco Profissional
 
+Meu foco principal é o desenvolvimento Backend com Node.js e TypeScript, com ênfase na construção de APIs REST e integração com bancos de dados relacionais.
 
-💡 Foco Profissional
+Também desenvolvo aplicações Full Stack utilizando React e Next.js, buscando aplicar boas práticas de desenvolvimento e construir soluções bem estruturadas.
 
-Meu foco principal é o Desenvolvimento Backend com Node.js e TypeScript, com ênfase na construção de APIs REST e integração robusta com bancos de dados relacionais. Tenho também experiência na criação de interfaces e aplicações Full Stack utilizando React e Next.js.
+---
 
+## 🛠️ Tecnologias & Ferramentas
 
-
-
-🛠️ Tecnologias & Ferramentas
-
-Backend & Banco de Dados
+### Backend & Banco de Dados
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -33,14 +36,14 @@ Backend & Banco de Dados
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge" alt="REST API" />
 </p>
 
-Frontend
+### Frontend
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 </p>
 
-Ferramentas
+### Ferramentas
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -48,60 +51,58 @@ Ferramentas
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
 
-Outras Linguagens & Estudos Complementares
+### Outras Linguagens & Estudos Complementares
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
+---
 
+## 🚀 Projeto em Destaque
 
+### Fluxa
 
-🚀 Projeto em Destaque: Fluxa
+**Sistema de gestão financeira pessoal**
 
-Fluxa é um sistema de gestão financeira pessoal que estou desenvolvendo para demonstrar minhas habilidades em Backend e Full Stack. O projeto visa oferecer uma solução prática para o controle de finanças, aplicando as tecnologias e conceitos que são meu foco profissional.
+O Fluxa é uma aplicação Full Stack que estou desenvolvendo para gerenciamento de finanças pessoais, com foco em organização de receitas, despesas e acompanhamento financeiro.
 
-•
-O que é: Sistema de gestão financeira pessoal.
+O projeto representa minha principal iniciativa de portfólio e demonstra minha atuação no desenvolvimento de Backend e Frontend, desde a construção da API e integração com banco de dados até a implementação da interface da aplicação.
 
-•
-Problema que resolve: Organização e controle de despesas e receitas pessoais.
+**Tecnologias:** Node.js • TypeScript • React • Fastify • PostgreSQL • Knex • Zod
 
-•
-Minha participação: Desenvolvimento completo do Backend e Frontend.
+**GitHub:** [link do repositório do Fluxa](https://github.com/matssgit/fluxa)
 
-•
-Tecnologias: Node.js, TypeScript, React, PostgreSQL, Fastify.
+**Live Demo:** [link do deploy, quando disponível]
 
-•
-GitHub: [link do repositório do Fluxa]
+---
 
-•
-Live Demo: [link do deploy, quando disponível]
+## 📂 Outros Projetos
 
+### Sistema de Autenticação e Controle de Acesso
 
+Aplicação desenvolvida para demonstrar conceitos de autenticação, autorização e controle de acesso baseado em permissões.
 
+**Tecnologias:** Python • Flask • MySQL • SQLAlchemy • Flask-Login • bcrypt
 
-📊 Estatísticas do GitHub
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-<img src="https://github-readme-stats-two-nu.vercel.app/api?username=matssgit&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-    
-
-  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=matssgit&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Linguagens Mais Usadas" />
+<img src="https://github-readme-stats-two-nu.vercel.app/api?username=matssgit&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />     
+   <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=matssgit&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Linguagens Mais Usadas" />
 </div>
 
+---
 
-
-
-✉️ Contato
+## ✉️ Contato
 
 Vamos nos conectar!
 
-•
-LinkedIn
-
-•
-E-mail
-
+<p>
+<a href="https://www.linkedin.com/in/matheussantanadev">LinkedIn</a>
+  •
+  <a href="mailto:matsant.dev@gmail.com">E-mail</a>
+</p>
