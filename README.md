@@ -72,7 +72,7 @@ O projeto representa minha principal iniciativa de portfólio e demonstra minha 
 
 **Tecnologias:** Node.js • TypeScript • React • Fastify • PostgreSQL • Knex • Zod
 
-**GitHub:** [link do repositório do Fluxa](https://github.com/matssgit/fluxa)
+**GitHub:** [em desenvolvimento...](https://github.com/matssgit/fluxa)
 
 **Live Demo:** [link do deploy, quando disponível]
 
@@ -85,6 +85,8 @@ O projeto representa minha principal iniciativa de portfólio e demonstra minha 
 Aplicação desenvolvida para demonstrar conceitos de autenticação, autorização e controle de acesso baseado em permissões.
 
 **Tecnologias:** Python • Flask • MySQL • SQLAlchemy • Flask-Login • bcrypt
+
+**Github** [Link do projeto](https://github.com/matssgit/sample-flask-auth)
 
 ---
 
