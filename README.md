@@ -72,9 +72,9 @@ O projeto representa minha principal iniciativa de portfólio e demonstra minha 
 
 **Tecnologias:** Node.js • TypeScript • React • Fastify • PostgreSQL • Knex • Zod
 
-**GitHub:** [em desenvolvimento...](https://github.com/matssgit/fluxa)
+**GitHub:** [Link do projeto]([https://github.com/matssgit/fluxa](https://github.com/matssgit/fluxa-app))
 
-**Live Demo:** [link do deploy, quando disponível]
+**Live Demo:** [link do deploy](https://fluxa-core-app-five.vercel.app/)
 
 ---
 
