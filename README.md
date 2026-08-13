@@ -77,7 +77,7 @@ Mais do que acumular tecnologias, quero entender **por que cada decisão é toma
 ### Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite&perline=2" alt="Data stack" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlit,mysqle,mongodb&perline=2" alt="Data stack" />
 </p>
 
 ### Engenharia & Ferramentas
