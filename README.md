@@ -4,7 +4,7 @@
 
 # Matheus Santana
 
-**Software Develope · Full Stack**
+**Software Developer · Full Stack**
 
 Construindo software para entender como as coisas funcionam —
 e evoluindo a cada projeto.
