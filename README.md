@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./assets/header.gif" alt="Matheus Santana" />
-</div>
+<div class="tenor-gif-embed" data-postid="9810614" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/work-computer-gif-9810614">Work Computer GIF</a>from <a href="https://tenor.com/search/work-gifs">Work GIFs</a></div>
 
 # Matheus Santana
 
