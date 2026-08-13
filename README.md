@@ -4,7 +4,7 @@
 
 # Matheus Santana
 
-**Software Developer · Backend & Full Stack**
+**Full Stack Developer · Software Developer**
 
 Construindo software para entender como as coisas funcionam —
 e evoluindo a cada projeto.
@@ -33,39 +33,43 @@ Minha trajetória na tecnologia começou no suporte técnico, onde aprendi a lid
 
 Em 2024, comecei a direcionar esse interesse para o desenvolvimento de software. Desde então, venho aprendendo principalmente através da construção: estudando um conceito, aplicando em um projeto, entendendo os erros e evoluindo a solução.
 
-Hoje curso **Análise e Desenvolvimento de Sistemas na UniSantos** e tenho meu foco cada vez mais direcionado para **Backend, APIs, arquitetura e bancos de dados**.
+Hoje curso **Análise e Desenvolvimento de Sistemas na UniSantos** e venho construindo minha formação como **Full Stack Developer**, trabalhando com aplicações web, APIs, bancos de dados e integração entre diferentes camadas de um sistema.
 
-Também desenvolvo aplicações Full Stack com React, buscando entender não apenas a interface, mas como todas as partes de um sistema se conectam.
+Gosto tanto de construir interfaces quanto de entender o que acontece por trás delas. No frontend, gosto de pensar em **layout, usabilidade e interatividade**. No backend, tenho uma afinidade especial com **arquitetura, regras de negócio, APIs e dados**.
 
-> **Backend como foco. Full Stack como capacidade de execução.**
+> **Full Stack como atuação. Backend como afinidade. Curiosidade como combustível.**
 
 ---
 
 ## O que estou construindo
 
-Meu objetivo é transformar conhecimento em experiência prática.
+Meu objetivo é transformar conhecimento em experiência prática através de projetos que envolvam o sistema como um todo.
 
-Gosto de projetos que me obrigam a pensar além do código:
+Gosto de participar de todas as etapas de uma aplicação:
 
-* Modelagem de dados
-* Regras de negócio
-* APIs
-* Autenticação
-* Integração entre frontend e backend
-* Testes automatizados
-* Arquitetura
-* Deploy
+* Pensar a experiência e a interface
+* Modelar dados
+* Definir regras de negócio
+* Construir APIs
+* Integrar frontend e backend
+* Implementar autenticação
+* Escrever testes
+* Estruturar a aplicação
+* Fazer deploy
+* Observar, corrigir e evoluir
 
-Mais do que acumular tecnologias, quero entender **por que cada decisão é tomada**.
+Mais do que acumular tecnologias, quero entender **como as partes se conectam e por que cada decisão é tomada**.
 
 ---
 
-## Stack
+## Tecnologias
 
-### Backend
+Minha principal experiência prática está no ecossistema **JavaScript/TypeScript**, mas venho ampliando meu repertório continuamente e tenho interesse em trabalhar com diferentes stacks conforme o problema e o contexto.
+
+### Desenvolvimento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,python,express,zod&perline=5" alt="Backend stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,python&perline=5" alt="Development stack" />
 </p>
 
 ### Frontend
@@ -74,10 +78,16 @@ Mais do que acumular tecnologias, quero entender **por que cada decisão é toma
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&perline=4" alt="Frontend stack" />
 </p>
 
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastify,express,zod&perline=4" alt="Backend stack" />
+</p>
+
 ### Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlit,mysqle,mongodb&perline=2" alt="Data stack" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb&perline=4" alt="Data stack" />
 </p>
 
 ### Engenharia & Ferramentas
@@ -86,11 +96,13 @@ Mais do que acumular tecnologias, quero entender **por que cada decisão é toma
   <img src="https://skillicons.dev/icons?i=git,github,docker,vitest&perline=4" alt="Engineering and tools" />
 </p>
 
-### Também estudo
+### Tecnologias em expansão
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,java&perline=3" alt="Languages under study" />
+  <img src="https://skillicons.dev/icons?i=go,java&perline=2" alt="Technologies in expansion" />
 </p>
+
+Estou sempre aberto a aprender novas linguagens, frameworks e ferramentas quando o projeto exige.
 
 ---
 
@@ -111,7 +123,7 @@ A aplicação permite organizar:
 * Assinaturas
 * Gastos recorrentes
 
-Foi desenvolvido como um projeto Full Stack completo, conectando **frontend, backend e banco de dados** em uma aplicação real.
+Foi desenvolvido como um projeto Full Stack completo, conectando **interface, regras de negócio, API e banco de dados** em uma aplicação real.
 
 **Stack:** React · TypeScript · Node.js · Fastify · PostgreSQL · Zod
 
@@ -131,9 +143,9 @@ Foi desenvolvido como um projeto Full Stack completo, conectando **frontend, bac
 
 Antes de escrever código, procuro entender o problema.
 
-Depois penso nos dados, nas regras e nas responsabilidades de cada parte do sistema.
+Penso na experiência de quem vai utilizar a aplicação, nos dados que sustentam o sistema, nas regras de negócio e nas responsabilidades de cada parte.
 
-Construo, testo, refatoro e evoluo.
+Depois construo, testo, refatoro e evoluo.
 
 <div align="center">
 
@@ -163,15 +175,19 @@ Comecei a estudar programação e descobri que gostava mais de entender a lógic
 
 ### 2025 · Aprofundamento
 
-Passei dos exercícios para projetos completos, estudando frontend, backend, bancos de dados e integração entre sistemas.
+Passei dos exercícios para projetos completos, explorando frontend, backend, bancos de dados e integração entre sistemas.
 
-### 2026 · Foco em Backend
+### 2026 · Construindo como Full Stack
 
-Passei a direcionar cada vez mais meus estudos para **Node.js, TypeScript, APIs, bancos de dados e arquitetura de aplicações**.
+Passei a desenvolver aplicações cada vez mais completas, aprofundando meus conhecimentos em **TypeScript, Node.js, React, APIs, bancos de dados e arquitetura**.
+
+Ao mesmo tempo, comecei a explorar outras linguagens e tecnologias, ampliando minha capacidade de transitar entre diferentes stacks.
 
 ### Atualmente · Construindo e buscando oportunidades
 
 Continuo desenvolvendo projetos práticos e realizando trabalhos como freelancer, enquanto busco minha primeira oportunidade profissional como desenvolvedor.
+
+Meu objetivo é continuar evoluindo como **Full Stack Developer**, sem limitar meu aprendizado a uma única linguagem ou stack.
 
 ---
 
@@ -189,6 +205,6 @@ Continuo desenvolvendo projetos práticos e realizando trabalhos como freelancer
 
 <div align="center">
 
-<i>Construindo software. Evoluindo a cada projeto.</i>
+<i>Construindo software. Explorando tecnologias. Evoluindo a cada projeto.</i>
 
 </div>
