@@ -1,11 +1,12 @@
-
 <div align="center">
-  <img src="./assets/github-header.svg" width="100%" />
+  <img src="./assets/header.gif" width="100%" alt="Matheus Santana" />
+</div>
 
-  # Matheus Santana
-  ### Software Developer · Backend & Full Stack
+# Matheus Santana
 
-  Construindo software para entender como as coisas funcionam — e evoluindo a cada projeto.
+### Software Developer · Backend & Full Stack
+
+Construindo software para entender como as coisas funcionam — e evoluindo a cada projeto.
 
   <br>
 
@@ -106,6 +107,7 @@ Mais do que acumular tecnologias, quero entender **por que** cada decisão é to
 ## Projeto em destaque
 
 ### FLUXA
+
 **Gestão financeira pessoal**
 
 O **FLUXA** nasceu de uma necessidade real: centralizar a vida financeira em um único lugar.
