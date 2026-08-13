@@ -1,3 +1,16 @@
+Sim — dá para deixar o README bem mais alinhado ao seu portfólio. GitHub Markdown não permite reproduzir literalmente CSS/JS do site, mas dá para trazer a mesma **identidade visual** com banners em SVG, separadores, cards, badges, GIFs/efeitos visuais e uma hierarquia bem mais limpa.
+
+Eu inclusive mudaria um pouco a estrutura atual: seu README hoje parece mais um currículo técnico. O portfólio novo transmite uma história de **curiosidade → construção → backend → oportunidade profissional**, então o GitHub pode ser a extensão dessa mesma identidade.
+
+O ponto mais importante: eu evitaria encher de “efeitos” só por encher. Um banner SVG bem feito + cards + stats + alguns detalhes animados já deixam muito mais premium.
+
+Eu faria algo nessa linha:
+
+---
+
+# README que combina com seu portfólio
+
+````md
 <div align="center">
 
 # Matheus Santana
@@ -149,3 +162,83 @@ Foi desenvolvido como um projeto **Full Stack completo**, conectando frontend, b
 04 — Testar
     ↓
 05 — Evoluir
+````
+
+Antes de escrever código, procuro entender o problema.
+
+Depois penso nos dados, nas regras e nas responsabilidades de cada parte do sistema.
+
+Construo, testo, refatoro e evoluo.
+
+> Todo projeto novo é uma oportunidade de entender algo que eu ainda não entendia.
+
+---
+
+# Minha jornada
+
+### 2024
+
+**Primeiros passos**
+
+Comecei a estudar programação e descobri que gostava mais de entender a lógica por trás das aplicações do que apenas utilizá-las.
+
+### 2025
+
+**Aprofundamento**
+
+Passei dos exercícios para projetos completos, estudando frontend, backend, bancos de dados e integração entre sistemas.
+
+### 2026
+
+**Foco em Backend**
+
+Passei a direcionar cada vez mais meus estudos para Node.js, TypeScript, APIs, bancos de dados e arquitetura de aplicações.
+
+### Atualmente
+
+**Construindo e buscando oportunidades**
+
+Continuo desenvolvendo projetos práticos enquanto busco minha primeira oportunidade profissional como desenvolvedor.
+
+---
+
+# GitHub em números
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-two-nu.vercel.app/api?username=matssgit&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=matssgit&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
+
+</div>
+
+---
+
+# Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/matheussantanadev">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<a href="mailto:matsant.dev@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<a href="https://matheussantanadev.vercel.app">
+  <img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Construindo software. Evoluindo a cada projeto.**
+
+</div>
+```
+
+
