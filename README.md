@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.gif" width="100%" alt="Matheus Santana" />
+  <img src="./assets/header.gif" alt="Matheus Santana" />
 </div>
 
 # Matheus Santana
