@@ -1,110 +1,151 @@
-# Olá, eu sou o Matheus Santana 👋
+<div align="center">
 
-### Software Developer | Node.js • TypeScript • React
+# Matheus Santana
+
+### Software Developer · Backend & Full Stack
+
+Construindo software para entender como as coisas funcionam — e evoluindo a cada projeto.
+
+<br>
+
+<a href="https://matheussantanadev.vercel.app">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/matheussantanadev">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:matsant.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre mim
 
-Sou Desenvolvedor de Software com foco em Backend utilizando Node.js e TypeScript, e também possuo experiência prática no desenvolvimento de aplicações Full Stack com React.
+Minha trajetória na tecnologia começou no suporte técnico, onde aprendi a lidar de perto com sistemas, usuários e problemas reais.
 
-Minha trajetória profissional teve início na área de Infraestrutura, Redes e Suporte Técnico, experiência que me proporcionou uma base sólida em sistemas, ambientes tecnológicos e resolução de problemas.
+Em 2024, comecei a direcionar esse interesse para desenvolvimento de software. Desde então, venho aprendendo principalmente através da construção: estudando um conceito, aplicando em um projeto, entendendo os erros e evoluindo a solução.
 
-Atualmente, curso Análise e Desenvolvimento de Sistemas na UniSantos e aprofundo meus conhecimentos em desenvolvimento Backend, construção de APIs REST e integração com bancos de dados relacionais.
+Hoje curso **Análise e Desenvolvimento de Sistemas na UniSantos** e tenho meu foco cada vez mais direcionado para **Backend, APIs, arquitetura e bancos de dados**.
 
----
+Também desenvolvo aplicações Full Stack com React, buscando entender não apenas a interface, mas como todas as partes de um sistema se conectam.
 
-## 💡 Foco Profissional
-
-Meu foco principal é o desenvolvimento Backend com Node.js e TypeScript, com ênfase na construção de APIs REST e integração com bancos de dados relacionais.
-
-Também desenvolvo aplicações Full Stack utilizando React e Next.js, buscando aplicar boas práticas de desenvolvimento e construir soluções bem estruturadas.
+> **Backend como foco. Full Stack como capacidade de execução.**
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## O que estou construindo
 
-### Backend & Banco de Dados
+Meu objetivo é transformar conhecimento em experiência prática.
+
+Gosto de projetos que me obrigam a pensar além do código:
+
+- modelagem de dados
+- regras de negócio
+- APIs
+- autenticação
+- integração entre frontend e backend
+- testes
+- arquitetura
+- deploy
+
+Mais do que acumular tecnologias, quero entender **por que** cada decisão é tomada.
+
+---
+
+## Stack
+
+### Backend
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Fastify-0D1117?style=for-the-badge&logo=fastify&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Zod-0D1117?style=for-the-badge&logoColor=FFFFFF" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" />
+  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
 </p>
 
-### Ferramentas
+### Dados
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
 </p>
 
-### Outras Linguagens & Estudos Complementares
+### Engenharia & Ferramentas
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Vitest-0D1117?style=for-the-badge&logo=vitest&logoColor=6E9F18" />
 </p>
 
----
-
-## 🚀 Projeto em Destaque
-
-### Fluxa
-
-**Sistema de gestão financeira pessoal**
-
-O Fluxa é uma aplicação Full Stack que estou desenvolvendo para gerenciamento de finanças pessoais, com foco em organização de receitas, despesas e acompanhamento financeiro.
-
-O projeto representa minha principal iniciativa de portfólio e demonstra minha atuação no desenvolvimento de Backend e Frontend, desde a construção da API e integração com banco de dados até a implementação da interface da aplicação.
-
-**Tecnologias:** Node.js • TypeScript • React • Fastify • PostgreSQL • Knex • Zod
-
-**GitHub:** [Link do projeto]([https://github.com/matssgit/fluxa](https://github.com/matssgit/fluxa-app))
-
-**Live Demo:** [link do deploy](https://fluxa-core-app-five.vercel.app/)
-
----
-
-## 📂 Outros Projetos
-
-### Sistema de Autenticação e Controle de Acesso
-
-Aplicação desenvolvida para demonstrar conceitos de autenticação, autorização e controle de acesso baseado em permissões.
-
-**Tecnologias:** Python • Flask • MySQL • SQLAlchemy • Flask-Login • bcrypt
-
-**Github** [Link do projeto](https://github.com/matssgit/sample-flask-auth)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-<img src="https://github-readme-stats-two-nu.vercel.app/api?username=matssgit&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />     
-   <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=matssgit&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Linguagens Mais Usadas" />
-</div>
-
----
-
-## ✉️ Contato
-
-Vamos nos conectar!
+### Também estudo
 
 <p>
-<a href="https://www.linkedin.com/in/matheussantanadev">LinkedIn</a>
-  •
-  <a href="mailto:matsant.dev@gmail.com">E-mail</a>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
 </p>
+
+---
+
+# Projeto em destaque
+
+## FLUXA
+
+### Gestão financeira pessoal
+
+O **FLUXA** nasceu de uma necessidade real: centralizar a vida financeira em um único lugar.
+
+A aplicação permite organizar:
+
+- receitas
+- despesas
+- cartões
+- compras parceladas
+- assinaturas
+- gastos recorrentes
+
+Foi desenvolvido como um projeto **Full Stack completo**, conectando frontend, backend e banco de dados em uma aplicação real.
+
+### Stack
+
+`React` · `TypeScript` · `Node.js` · `Fastify` · `PostgreSQL` · `Zod`
+
+<br>
+
+<a href="https://fluxa-core-app-five.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-000000?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/matssgit/fluxa-app">
+  <img src="https://img.shields.io/badge/💻%20Código-000000?style=for-the-badge&logo=github" />
+</a>
+
+---
+
+# Como eu penso
+
+```text
+01 — Entender
+    ↓
+02 — Modelar
+    ↓
+03 — Construir
+    ↓
+04 — Testar
+    ↓
+05 — Evoluir
