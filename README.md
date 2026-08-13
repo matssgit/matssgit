@@ -65,7 +65,7 @@ Mais do que acumular tecnologias, quero entender **por que cada decisão é toma
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,fastify,express,zod&perline=5" alt="Backend stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,python,express,zod&perline=5" alt="Backend stack" />
 </p>
 
 ### Frontend
@@ -89,7 +89,7 @@ Mais do que acumular tecnologias, quero entender **por que cada decisão é toma
 ### Também estudo
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,java&perline=3" alt="Languages under study" />
+  <img src="https://skillicons.dev/icons?i=go,java&perline=3" alt="Languages under study" />
 </p>
 
 ---
