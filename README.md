@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="./assets/header.gif" alt="Matheus Santana" />
+  <img
+  src="https://raw.githubusercontent.com/matssgit/matssgit/main/assets/header.gif"
+  alt="Matheus Santana"
+/>
 </div>
 
 # Matheus Santana
