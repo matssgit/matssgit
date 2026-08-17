@@ -2,32 +2,39 @@
 
 <img src="https://raw.githubusercontent.com/matssgit/matssgit/main/assets/header.gif" alt="Matheus Santana" width="100%" />
 
+<br />
+
 # Matheus Santana
 
-**Software Developer · Full Stack**
+### Software Developer · Full Stack
 
-Construindo software para entender como as coisas funcionam —
-e evoluindo a cada projeto.
+**Construindo software para entender como as coisas funcionam —
+e evoluindo a cada projeto.**
 
 <br />
 
 <a href="https://matheusantanadev.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=flat-square&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-161B22?style=for-the-badge" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/matheussantanadev">
-  <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:matsant.dev@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-161B22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=matssgit&style=flat-square&color=161B22&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-<br />
+---
 
-## Sobre mim
+## `> whoami`
 
 Minha trajetória na tecnologia começou no suporte técnico, onde aprendi a lidar de perto com sistemas, usuários e problemas reais.
 
@@ -35,82 +42,114 @@ Em 2024, comecei a direcionar esse interesse para o desenvolvimento de software.
 
 Hoje curso **Análise e Desenvolvimento de Sistemas na UniSantos** e venho construindo minha formação como **Full Stack Developer**, trabalhando com aplicações web, APIs, bancos de dados e integração entre diferentes camadas de um sistema.
 
-Gosto tanto de construir interfaces quanto de entender o que acontece por trás delas. No frontend, gosto de pensar em **layout, usabilidade e interatividade**. No backend, tenho uma afinidade especial com **arquitetura, regras de negócio, APIs e dados**.
+Gosto de construir interfaces, mas tenho uma afinidade especial com aquilo que acontece por trás delas: **arquitetura, regras de negócio, APIs e dados**.
 
 > **Full Stack como atuação. Backend como afinidade. Curiosidade como combustível.**
 
 ---
 
-## O que estou construindo
+## `> currently_building`
 
-Meu objetivo é transformar conhecimento em experiência prática através de projetos que envolvam o sistema como um todo.
+<table>
+<tr>
+<td width="50%">
 
-Gosto de participar de todas as etapas de uma aplicação:
+### 🍕 Sistema para Pizzaria
 
-* Pensar a experiência e a interface
-* Modelar dados
-* Definir regras de negócio
-* Construir APIs
-* Integrar frontend e backend
-* Implementar autenticação
-* Escrever testes
-* Estruturar a aplicação
-* Fazer deploy
-* Observar, corrigir e evoluir
+Uma aplicação Full Stack completa simulando a operação de uma pizzaria real.
 
-Mais do que acumular tecnologias, quero entender **como as partes se conectam e por que cada decisão é tomada**.
+Inclui:
+
+* Delivery
+* Catálogo e personalização
+* Carrinho e checkout
+* Reservas de mesas
+* Disponibilidade em tempo real
+* Painel administrativo
+* Cupons
+* Avaliações
+* Relatórios
+* Notificações
+
+**Objetivo:** construir um projeto que envolva diferentes partes de um sistema real e explorar arquitetura, regras de negócio e integração entre serviços.
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend & APIs
+
+Atualmente aprofundando meus conhecimentos em:
+
+* Node.js
+* TypeScript
+* Fastify
+* REST APIs
+* PostgreSQL
+* Zod
+* Testes automatizados
+* Docker
+* Arquitetura de aplicações
+
+**Foco:** escrever software que não apenas funciona, mas que seja organizado, testável e fácil de evoluir.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Tecnologias
+## `> stack`
 
-Minha principal experiência prática está no ecossistema **JavaScript/TypeScript**, mas venho ampliando meu repertório continuamente e tenho interesse em trabalhar com diferentes stacks conforme o problema e o contexto.
+Minha principal experiência prática está no ecossistema **JavaScript/TypeScript**, enquanto continuo expandindo meu repertório para outras linguagens e tecnologias.
 
-### Desenvolvimento
+### Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,python&perline=5" alt="Development stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,python&perline=5" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&perline=4" alt="Frontend stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&perline=4" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastify,express,zod&perline=4" alt="Backend stack" />
+<img src="https://skillicons.dev/icons?i=nodejs,fastify,express,zod&perline=4" />
 </p>
 
-### Dados
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb&perline=4" alt="Data stack" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb&perline=4" />
 </p>
 
-### Engenharia & Ferramentas
+### Tools & Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vitest&perline=4" alt="Engineering and tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vitest&perline=4" />
 </p>
 
-### Tecnologias em expansão
+### Exploring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,java&perline=2" alt="Technologies in expansion" />
+<img src="https://skillicons.dev/icons?i=go,java&perline=2" />
 </p>
-
-Estou sempre aberto a aprender novas linguagens, frameworks e ferramentas quando o projeto exige.
 
 ---
 
-## Projeto em destaque
+## `> featured_project`
 
-### FLUXA
+<div align="center">
+
+### 💰 FLUXA
 
 **Gestão financeira pessoal**
+
+</div>
 
 O **FLUXA** nasceu de uma necessidade real: centralizar a vida financeira em um único lugar.
 
@@ -125,79 +164,165 @@ A aplicação permite organizar:
 
 Foi desenvolvido como um projeto Full Stack completo, conectando **interface, regras de negócio, API e banco de dados** em uma aplicação real.
 
-**Stack:** React · TypeScript · Node.js · Fastify · PostgreSQL · Zod
+### Stack
+
+`React` · `TypeScript` · `Node.js` · `Fastify` · `PostgreSQL` · `Zod`
 
 <br />
-
-<a href="https://fluxa-core-app-five.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-161B22?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Live Demo" />
-</a>
-&nbsp;
-<a href="https://github.com/matssgit/fluxa-app">
-  <img src="https://img.shields.io/badge/CÓDIGO-161B22?style=flat-square&logo=github&logoColor=FFFFFF" alt="Código" />
-</a>
-
----
-
-## Como eu penso
-
-Antes de escrever código, procuro entender o problema.
-
-Penso na experiência de quem vai utilizar a aplicação, nos dados que sustentam o sistema, nas regras de negócio e nas responsabilidades de cada parte.
-
-Depois construo, testo, refatoro e evoluo.
 
 <div align="center">
 
-**01 — Entender**
-↓
-**02 — Modelar**
-↓
-**03 — Construir**
-↓
-**04 — Testar**
-↓
-**05 — Evoluir**
+<a href="https://fluxa-core-app-five.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-161B22?style=for-the-badge" />
+</a>
+
+ 
+
+<a href="https://github.com/matssgit/fluxa-app">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
 
 </div>
 
+---
+
+## `> how_i_build`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 01
+
+**ENTENDER**
+
+Problema
+↓
+Contexto
+↓
+Requisitos
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 02
+
+**MODELAR**
+
+Dados
+↓
+Regras
+↓
+Arquitetura
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 03
+
+**CONSTRUIR**
+
+Código
+↓
+Integrações
+↓
+Features
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 04
+
+**VALIDAR**
+
+Testes
+↓
+Debug
+↓
+Refatoração
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 05
+
+**EVOLUIR**
+
+Deploy
+↓
+Feedback
+↓
+Melhoria
+
+</td>
+</tr>
+</table>
+
 <br />
 
-> Todo projeto novo é uma oportunidade de entender algo que eu ainda não entendia.
+> **Não quero apenas fazer funcionar. Quero entender por que funciona.**
+
+</div>
 
 ---
 
-## Minha jornada
+## `> journey`
 
-### 2024 · Primeiros passos
-
-Comecei a estudar programação e descobri que gostava mais de entender a lógica por trás das aplicações do que apenas utilizá-las.
-
-### 2025 · Aprofundamento
-
-Passei dos exercícios para projetos completos, explorando frontend, backend, bancos de dados e integração entre sistemas.
-
-### 2026 · Construindo como Full Stack
-
-Passei a desenvolver aplicações cada vez mais completas, aprofundando meus conhecimentos em **TypeScript, Node.js, React, APIs, bancos de dados e arquitetura**.
-
-Ao mesmo tempo, comecei a explorar outras linguagens e tecnologias, ampliando minha capacidade de transitar entre diferentes stacks.
-
-### Atualmente · Construindo e buscando oportunidades
-
-Continuo desenvolvendo projetos práticos e realizando trabalhos como freelancer, enquanto busco minha primeira oportunidade profissional como desenvolvedor.
+```text
+2024
+│
+├── Primeiros passos
+│   └── Programação · JavaScript · Web
+│
+├─────────────────────────────────────
+│
+2025
+│
+├── Aprofundamento
+│   └── React · Node.js · TypeScript · SQL
+│
+├─────────────────────────────────────
+│
+2026
+│
+├── Construindo aplicações completas
+│   └── APIs · PostgreSQL · Testes · Arquitetura
+│
+└── Atualmente
+    └── Full Stack · Backend · Projetos reais
+```
 
 Meu objetivo é continuar evoluindo como **Full Stack Developer**, sem limitar meu aprendizado a uma única linguagem ou stack.
 
 ---
 
-## GitHub em números
+## `> github_stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=matssgit&show_icons=true&hide_border=true&bg_color=0D1117&text_color=E6EDF3&icon_color=58A6FF&title_color=FFFFFF&ring_color=58A6FF" height="165" alt="GitHub Stats" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=matssgit&show_icons=true&hide_border=true&bg_color=0D1117&text_color=E6EDF3&icon_color=58A6FF&title_color=FFFFFF&ring_color=58A6FF"
+height="165"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matssgit&layout=compact&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=FFFFFF" height="165" alt="Top Languages" />
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=matssgit&layout=compact&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=FFFFFF"
+height="165"
+/>
 
 </div>
 
@@ -205,6 +330,46 @@ Meu objetivo é continuar evoluindo como **Full Stack Developer**, sem limitar m
 
 <div align="center">
 
-<i>Construindo software. Explorando tecnologias. Evoluindo a cada projeto.</i>
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=matssgit&hide_border=true&background=0D1117&stroke=161B22&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+width="70%"
+/>
+
+</div>
+
+---
+
+## `> beyond_code`
+
+Não estudo tecnologia apenas para acumular ferramentas.
+
+Gosto de entender **como os sistemas funcionam**, desmontar problemas complexos em partes menores e descobrir maneiras melhores de construir soluções.
+
+Cada projeto representa alguma coisa que eu aprendi.
+
+Cada erro representa alguma coisa que eu ainda posso entender melhor.
+
+E cada nova tecnologia é uma oportunidade de ampliar o que consigo construir.
+
+---
+
+<div align="center">
+
+### `while (learning) { build(); }`
+
+<br />
+
+**Construindo software. Explorando tecnologias. Evoluindo a cada projeto.**
+
+<br />
+
+<a href="https://matheusantanadev.vercel.app/">
+  <img src="https://img.shields.io/badge/→%20VISIT%20MY%20PORTFOLIO-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" />
+</a>
+
+<br />
+<br />
+
+<sub>© Matheus Santana · São Paulo, Brazil</sub>
 
 </div>
