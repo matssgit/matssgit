@@ -364,7 +364,7 @@ E cada nova tecnologia é uma oportunidade de ampliar o que consigo construir.
 <br />
 
 <a href="https://matheusantanadev.vercel.app/">
-  <img src="https://img.shields.io/badge/→%20VISIT%20MY%20PORTFOLIO-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/→%20VISITE%20MEU%20PORTFOLIO-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" />
 </a>
 
 <br />
