@@ -34,7 +34,7 @@ e evoluindo a cada projeto.**
 
 ---
 
-## `> whoami`
+## `> sobre_mim`
 
 Minha trajetória na tecnologia começou no suporte técnico, onde aprendi a lidar de perto com sistemas, usuários e problemas reais.
 
@@ -48,7 +48,7 @@ Gosto de construir interfaces, mas tenho uma afinidade especial com aquilo que a
 
 ---
 
-## `> currently_building`
+## `> o_que_estou_construindo`
 
 <table>
 <tr>
@@ -99,7 +99,7 @@ Atualmente aprofundando meus conhecimentos em:
 
 ---
 
-## `> stack`
+## `> tecnologias`
 
 Minha principal experiência prática está no ecossistema **JavaScript/TypeScript**, enquanto continuo expandindo meu repertório para outras linguagens e tecnologias.
 
@@ -141,7 +141,7 @@ Minha principal experiência prática está no ecossistema **JavaScript/TypeScri
 
 ---
 
-## `> featured_project`
+## `> projeto_em_destaque`
 
 <div align="center">
 
@@ -186,7 +186,7 @@ Foi desenvolvido como um projeto Full Stack completo, conectando **interface, re
 
 ---
 
-## `> how_i_build`
+## `> como_eu_penso`
 
 <div align="center">
 
@@ -280,7 +280,7 @@ Melhoria
 
 ---
 
-## `> journey`
+## `> minha_jornada`
 
 ```text
 2024
@@ -310,18 +310,21 @@ Meu objetivo é continuar evoluindo como **Full Stack Developer**, sem limitar m
 
 ---
 
-## `> github_stats`
+## `> gitHub_em_numeros`
+
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=matssgit&show_icons=true&hide_border=true&bg_color=0D1117&text_color=E6EDF3&icon_color=58A6FF&title_color=FFFFFF&ring_color=58A6FF"
-height="165"
+  src="https://github-readme-stats.vercel.app/api?username=matssgit&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"
+  height="170"
+  alt="Estatísticas do GitHub"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=matssgit&layout=compact&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=FFFFFF"
-height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matssgit&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+  height="170"
+  alt="Principais linguagens"
 />
 
 </div>
@@ -339,7 +342,7 @@ width="70%"
 
 ---
 
-## `> beyond_code`
+## `> alem_do_codigo`
 
 Não estudo tecnologia apenas para acumular ferramentas.
 
