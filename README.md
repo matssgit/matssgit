@@ -310,22 +310,19 @@ Meu objetivo é continuar evoluindo como **Full Stack Developer**, sem limitar m
 
 ---
 
-## `> gitHub_em_numeros`
-
+## `> atividade_no_github`
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=matssgit&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"
-  height="170"
-  alt="Estatísticas do GitHub"
-/>
+<a href="https://github.com/matssgit">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matssgit&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
-  height="170"
-  alt="Principais linguagens"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=matssgit&bg_color=0D1117&color=E6EDF3&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+  width="95%"
+  alt="Atividade no GitHub"
 />
+
+</a>
 
 </div>
 
