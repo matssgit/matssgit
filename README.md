@@ -54,44 +54,35 @@ Gosto de construir interfaces, mas tenho uma afinidade especial com aquilo que a
 <tr>
 <td width="50%">
 
-### 🍕 Sistema para Pizzaria
+### 🧠 Engenharia de Software
 
-Uma aplicação Full Stack completa simulando a operação de uma pizzaria real.
+Atualmente estou aprofundando meus conhecimentos na construção de aplicações completas, com foco em:
 
-Inclui:
-
-* Delivery
-* Catálogo e personalização
-* Carrinho e checkout
-* Reservas de mesas
-* Disponibilidade em tempo real
-* Painel administrativo
-* Cupons
-* Avaliações
-* Relatórios
-* Notificações
-
-**Objetivo:** construir um projeto que envolva diferentes partes de um sistema real e explorar arquitetura, regras de negócio e integração entre serviços.
+* Arquitetura de aplicações
+* APIs REST
+* Regras de negócio
+* Bancos de dados relacionais
+* Testes automatizados
+* Integração entre serviços
+* Docker e ambientes de desenvolvimento
 
 </td>
 
 <td width="50%">
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend & Full Stack
 
-Atualmente aprofundando meus conhecimentos em:
+Minha principal direção de estudo está no desenvolvimento backend com:
 
 * Node.js
 * TypeScript
 * Fastify
-* REST APIs
 * PostgreSQL
 * Zod
-* Testes automatizados
-* Docker
-* Arquitetura de aplicações
+* Drizzle
+* Vitest
 
-**Foco:** escrever software que não apenas funciona, mas que seja organizado, testável e fácil de evoluir.
+Enquanto isso, continuo desenvolvendo aplicações Full Stack com React e explorando outras tecnologias conforme os projetos exigem.
 
 </td>
 </tr>
@@ -190,6 +181,8 @@ Foi desenvolvido como um projeto Full Stack completo, conectando **interface, re
 <br />
 
 <div align="center">
+
+---
 
 ### 🍕 MASSA AO PONTO
 
