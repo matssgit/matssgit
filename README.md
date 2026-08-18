@@ -141,6 +141,8 @@ Minha principal experiência prática está no ecossistema **JavaScript/TypeScri
 
 ---
 
+---
+
 ## `> projeto_em_destaque`
 
 <div align="center">
@@ -176,13 +178,62 @@ Foi desenvolvido como um projeto Full Stack completo, conectando **interface, re
 <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-161B22?style=for-the-badge" />
 </a>
 
- 
+&nbsp;
 
 <a href="https://github.com/matssgit/fluxa-app">
 <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 </div>
+
+<br />
+<br />
+
+<div align="center">
+
+### 🍕 MASSA AO PONTO
+
+**Sistema completo para operação de uma pizzaria**
+
+</div>
+
+O **Massa ao Ponto** é um projeto Full Stack em desenvolvimento, criado para simular a operação de uma pizzaria real.
+
+O sistema está sendo construído de forma incremental, explorando **arquitetura de aplicações, regras de negócio, APIs, banco de dados, testes automatizados e integração entre diferentes partes de um sistema**.
+
+Entre as funcionalidades planejadas estão:
+
+* Reservas de mesas
+* Controle de disponibilidade
+* Delivery
+* Catálogo e personalização de pizzas
+* Carrinho e checkout
+* Pagamentos
+* Cupons e promoções
+* Avaliações
+* Relatórios
+* Notificações e automações
+* Painel administrativo
+
+### Stack
+
+`Node.js` · `TypeScript` · `Fastify` · `PostgreSQL` · `Drizzle` · `Zod` · `Vitest` · `Docker`
+
+### Status
+
+🚧 **Em desenvolvimento**
+
+<br />
+
+<div align="center">
+
+<a href="https://github.com/matssgit/massa-ao-ponto">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+</div>
+
+---
 
 ---
 
