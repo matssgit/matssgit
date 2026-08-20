@@ -352,34 +352,6 @@ Melhoria
 
 Meu objetivo é continuar evoluindo como **Full Stack Developer**, sem limitar meu aprendizado a uma única linguagem ou stack.
 
----
-
-## `> atividade_no_github`
-
-<div align="center">
-
-<a href="https://github.com/matssgit">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=matssgit&bg_color=0D1117&color=E6EDF3&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-  width="95%"
-  alt="Atividade no GitHub"
-/>
-
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=matssgit&hide_border=true&background=0D1117&stroke=161B22&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-width="70%"
-/>
-
-</div>
 
 ---
 
