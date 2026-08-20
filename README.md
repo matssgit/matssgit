@@ -109,7 +109,7 @@ Minha principal experiência prática está no ecossistema **JavaScript/TypeScri
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,fastify,express,zod&perline=4" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,express,zod&perline=4" />
 </p>
 
 ### Databases
