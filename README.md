@@ -8,10 +8,7 @@
 
 Construindo sistemas reais para entender como o software funciona — e evoluindo a cada projeto.
 
-[![Portfólio](https://img.shields.io/badge/portfolio-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://matheusantanadev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheussantanadev)
-[![Email](https://img.shields.io/badge/email-7C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:matsant.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/matssgit)
+<p align="center"><a href="https://matheusantanadev.vercel.app/"><img src="https://img.shields.io/badge/portfolio-6C63FF?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfólio" /></a> <a href="https://www.linkedin.com/in/matheussantanadev"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a> <a href="mailto:matsant.dev@gmail.com"><img src="https://img.shields.io/badge/email-7C3AED?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a> <a href="https://github.com/matssgit"><img src="https://img.shields.io/badge/github-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a></p>
 
 </div>
 
@@ -109,21 +106,29 @@ O projeto é construído incrementalmente para explorar **modelagem de domínio,
 
 ### Backend & Dados
 
-<img src="https://skillicons.dev/icons?i=express,postgres,mysql,sqlite,mongodb" height="38" alt="Express, PostgreSQL, MySQL, SQLite e MongoDB" />
+<img src="https://skillicons.dev/icons?i=express,postgres,mysql,sqlite" height="38" alt="Express, PostgreSQL, MySQL e SQLite" />
 
-`Fastify` · `Express` · `Zod` · `Drizzle` · `PostgreSQL` · `MySQL` · `SQLite` · `MongoDB` · `REST APIs`
+`Fastify` · `Express` · `Zod` · `Drizzle` · `PostgreSQL` · `MySQL` · `SQLite` · `REST APIs`
 
-### Frontend & Engenharia
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=vite,tailwind,git,github,docker,vitest" height="38" alt="Vite, Tailwind CSS, Git, GitHub, Docker e Vitest" />
+<img src="https://skillicons.dev/icons?i=vite,tailwind" height="38" alt="Vite e Tailwind CSS" />
 
-`Vite` · `Tailwind CSS` · `Git` · `GitHub` · `Docker` · `Vitest` · testes automatizados
+`Vite` · `Tailwind CSS`
+
+### Ferramentas & Engenharia
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vitest" height="38" alt="Git, GitHub, Docker e Vitest" />
+
+`Git` · `GitHub` · `Docker` · `Vitest` · testes automatizados
 
 ### Explorando
 
 <img src="https://skillicons.dev/icons?i=python,go,java" height="38" alt="Python, Go e Java" />
 
-`Python` · `Go` · `Java` · IA/LLMs · execução local de modelos
+`Python` · `Go` · `Java`
+
+`IA & LLMs` · integração de modelos e execução local
 
 ## `> como_eu_penso`
 
@@ -152,7 +157,7 @@ Antes do código, procuro compreender o problema, os dados e as regras. A implem
 
 ## `> alem_do_codigo`
 
-Não coleciono tecnologias. Uso projetos para entender sistemas, testar decisões e ampliar a complexidade que consigo organizar. Cada projeto registra uma evolução na minha forma de pensar software.
+Não coleciono tecnologias. Uso projetos para entender sistemas, testar decisões e evoluir minha forma de pensar software.
 
 <div align="center">
 
