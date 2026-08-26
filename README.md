@@ -1,391 +1,91 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/matssgit/matssgit/main/assets/header.gif" alt="Matheus Santana" width="100%" />
-
-<br />
+![Matheus Santana trabalhando em um computador](./assets/header.gif)
 
 # Matheus Santana
 
-### Software Developer · Full Stack
+**Software Developer · Full Stack**
 
-**Construindo software para entender como as coisas funcionam —
-e evoluindo a cada projeto.**
+Construindo sistemas reais para entender como o software funciona — e evoluindo a cada projeto.
 
-<br />
+[Portfólio ↗](https://matheusantanadev.vercel.app/) · [LinkedIn ↗](https://www.linkedin.com/in/matheussantanadev) · [Email](mailto:matsant.dev@gmail.com) · [GitHub](https://github.com/matssgit)
 
-<a href="https://matheusantanadev.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-161B22?style=for-the-badge" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/matheussantanadev">
-  <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:matsant.dev@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-</a>
+## Sobre mim
 
-<br />
-<br />
+Minha trajetória em tecnologia começou com infraestrutura, suporte técnico e sistemas — uma base que me ensinou a investigar problemas e entender o que existe por trás da interface. Em 2024, direcionei essa experiência para o desenvolvimento de software. Hoje curso **Análise e Desenvolvimento de Sistemas na UniSantos**.
 
-<img src="https://komarev.com/ghpvc/?username=matssgit&style=flat-square&color=161B22&label=PROFILE+VIEWS" alt="Profile views" />
+Atuo como **Full Stack Developer** no ecossistema JavaScript e TypeScript, construindo da interface à persistência de dados. Tenho maior afinidade com backend, APIs, arquitetura, regras de negócio e modelagem de dados.
 
-</div>
+Aprendo construindo: entendo o problema, modelo a solução, implemento, testo, refatoro e evoluo.
 
----
+> Full Stack como atuação. Backend como afinidade. Curiosidade como combustível.
 
-## `> sobre_mim`
+## Current Focus
 
-Minha trajetória na tecnologia começou no suporte técnico, onde aprendi a lidar de perto com sistemas, usuários e problemas reais.
+**01 — Application Architecture** · responsabilidades, limites e evolução do sistema
 
-Em 2024, comecei a direcionar esse interesse para o desenvolvimento de software. Desde então, venho aprendendo principalmente através da construção: estudando um conceito, aplicando em um projeto, entendendo os erros e evoluindo a solução.
+**02 — Backend Engineering** · APIs, regras de negócio e integrações
 
-Hoje curso **Análise e Desenvolvimento de Sistemas na UniSantos** e venho construindo minha formação como **Full Stack Developer**, trabalhando com aplicações web, APIs, bancos de dados e integração entre diferentes camadas de um sistema.
+**03 — Full Stack Systems** · experiências completas, da interface aos dados
 
-Gosto de construir interfaces, mas tenho uma afinidade especial com aquilo que acontece por trás delas: **arquitetura, regras de negócio, APIs e dados**.
+**04 — Testing & Reliability** · validação, testes automatizados e manutenção
 
-> **Full Stack como atuação. Backend como afinidade. Curiosidade como combustível.**
+**05 — AI Integration** · explorando LLMs aplicados a produtos e fluxos reais
 
----
+## Selected Projects
 
-## `> o_que_estou_construindo`
+### FLUXA
 
-<table>
-<tr>
-<td width="50%">
+**Plataforma Full Stack de gestão financeira pessoal.**
 
-### 🧠 Engenharia de Software
-
-Atualmente estou aprofundando meus conhecimentos na construção de aplicações completas, com foco em:
-
-* Arquitetura de aplicações
-* APIs REST
-* Regras de negócio
-* Bancos de dados relacionais
-* Testes automatizados
-* Integração entre serviços
-* Docker e ambientes de desenvolvimento
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Backend & Full Stack
-
-Minha principal direção de estudo está no desenvolvimento backend com:
-
-* Node.js
-* TypeScript
-* Fastify
-* PostgreSQL
-* Zod
-* Drizzle
-* Vitest
-
-Enquanto isso, continuo desenvolvendo aplicações Full Stack com React e explorando outras tecnologias conforme os projetos exigem.
-
-</td>
-</tr>
-</table>
-
----
-
-## `> tecnologias`
-
-Minha principal experiência prática está no ecossistema **JavaScript/TypeScript**, enquanto continuo expandindo meu repertório para outras linguagens e tecnologias.
-
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,python&perline=5" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&perline=4" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,ts,python,express&perline=4" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb&perline=4" />
-</p>
-
-### Tools & Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vitest&perline=4" />
-</p>
-
-### Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=go,java&perline=2" />
-</p>
-
----
-
----
-
-## `> projeto_em_destaque`
-
-<div align="center">
-
-### 💰 FLUXA
-
-**Gestão financeira pessoal**
-
-</div>
-
-O **FLUXA** nasceu de uma necessidade real: centralizar a vida financeira em um único lugar.
-
-A aplicação permite organizar:
-
-* Receitas
-* Despesas
-* Cartões
-* Compras parceladas
-* Assinaturas
-* Gastos recorrentes
-
-Foi desenvolvido como um projeto Full Stack completo, conectando **interface, regras de negócio, API e banco de dados** em uma aplicação real.
-
-### Stack
+O FLUXA nasceu da necessidade de centralizar informações financeiras em um único sistema. Reúne interface, API, dados e regras de negócio para lidar com receitas, despesas, cartões, parcelamentos, assinaturas e gastos recorrentes — não apenas como cadastros isolados, mas como partes de um mesmo domínio financeiro.
 
 `React` · `TypeScript` · `Node.js` · `Fastify` · `PostgreSQL` · `Zod`
 
-<br />
+[Abrir aplicação ↗](https://fluxa-core-app-five.vercel.app/) · [Ver repositório](https://github.com/matssgit/fluxa-app)
 
-<div align="center">
+### Massa ao Ponto
 
-<a href="https://fluxa-core-app-five.vercel.app/">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-161B22?style=for-the-badge" />
-</a>
+**Sistema Full Stack para modelar a operação real de uma pizzaria.** · *Em desenvolvimento*
 
-&nbsp;
-
-<a href="https://github.com/matssgit/fluxa-app">
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-
-</div>
-
-<br />
-<br />
-
-<div align="center">
-
----
-
-### 🍕 MASSA AO PONTO
-
-**Sistema completo para operação de uma pizzaria**
-
-</div>
-
-O **Massa ao Ponto** é um projeto Full Stack em desenvolvimento, criado para simular a operação de uma pizzaria real.
-
-O sistema está sendo construído de forma incremental, explorando **arquitetura de aplicações, regras de negócio, APIs, banco de dados, testes automatizados e integração entre diferentes partes de um sistema**.
-
-Entre as funcionalidades planejadas estão:
-
-* Reservas de mesas
-* Controle de disponibilidade
-* Delivery
-* Catálogo e personalização de pizzas
-* Carrinho e checkout
-* Pagamentos
-* Cupons e promoções
-* Avaliações
-* Relatórios
-* Notificações e automações
-* Painel administrativo
-
-### Stack
+Um projeto de construção incremental voltado a modelagem de domínio, arquitetura e regras operacionais. O sistema conecta fluxos como reservas, atendimento, pedidos, delivery, catálogo, checkout e administração, aumentando a complexidade de forma progressiva e intencional.
 
 `Node.js` · `TypeScript` · `Fastify` · `PostgreSQL` · `Drizzle` · `Zod` · `Vitest` · `Docker`
 
-### Status
+[Ver repositório ↗](https://github.com/matssgit/massa-ao-ponto)
 
-🚧 **Em desenvolvimento**
+## Tecnologias
 
-<br />
+**Core** · TypeScript · JavaScript · Node.js · React · Next.js
 
-<div align="center">
+**Backend** · Fastify · Express · Zod · REST APIs
 
-<a href="https://github.com/matssgit/massa-ao-ponto">
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
+**Frontend** · Vite · Tailwind CSS
 
-</div>
+**Data** · PostgreSQL · MySQL · SQLite · MongoDB · Drizzle
 
----
+**Engineering** · Git · GitHub · Docker · Vitest · testes automatizados
 
----
+**Exploring** · Python · Go · Java · AI/LLMs
 
-## `> como_eu_penso`
+## Como eu penso
 
-<div align="center">
+**Entender → Modelar → Construir → Validar → Evoluir**
 
-<table>
-<tr>
-<td align="center">
+Antes do código, procuro compreender o problema, os dados e as regras. A implementação vira uma forma de testar esse entendimento; a refatoração, uma forma de amadurecê-lo.
 
-### 01
+> Não quero apenas fazer funcionar. Quero entender por que funciona.
 
-**ENTENDER**
+## Jornada
 
-Problema
-↓
-Contexto
-↓
-Requisitos
+**2024 — Foundations** · JavaScript · Web
 
-</td>
+**2025 — Full Stack** · React · Node.js · TypeScript · SQL
 
-<td align="center">→</td>
+**2026 — Software Engineering** · Architecture · APIs · Data · Testing · sistemas reais
 
-<td align="center">
+## Além do código
 
-### 02
+Não coleciono tecnologias. Uso projetos para entender sistemas, testar decisões e ampliar a complexidade que consigo organizar. Cada projeto registra uma evolução na minha forma de pensar software.
 
-**MODELAR**
+`while (learning) { build(); }`
 
-Dados
-↓
-Regras
-↓
-Arquitetura
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-### 03
-
-**CONSTRUIR**
-
-Código
-↓
-Integrações
-↓
-Features
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-### 04
-
-**VALIDAR**
-
-Testes
-↓
-Debug
-↓
-Refatoração
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-### 05
-
-**EVOLUIR**
-
-Deploy
-↓
-Feedback
-↓
-Melhoria
-
-</td>
-</tr>
-</table>
-
-<br />
-
-> **Não quero apenas fazer funcionar. Quero entender por que funciona.**
-
-</div>
-
----
-
-## `> minha_jornada`
-
-```text
-2024
-│
-├── Primeiros passos
-│   └── Programação · JavaScript · Web
-│
-├─────────────────────────────────────
-│
-2025
-│
-├── Aprofundamento
-│   └── React · Node.js · TypeScript · SQL
-│
-├─────────────────────────────────────
-│
-2026
-│
-├── Construindo aplicações completas
-│   └── APIs · PostgreSQL · Testes · Arquitetura
-│
-└── Atualmente
-    └── Full Stack · Backend · Projetos reais
-```
-
-Meu objetivo é continuar evoluindo como **Full Stack Developer**, sem limitar meu aprendizado a uma única linguagem ou stack.
-
-
----
-
-## `> alem_do_codigo`
-
-Não estudo tecnologia apenas para acumular ferramentas.
-
-Gosto de entender **como os sistemas funcionam**, desmontar problemas complexos em partes menores e descobrir maneiras melhores de construir soluções.
-
-Cada projeto representa alguma coisa que eu aprendi.
-
-Cada erro representa alguma coisa que eu ainda posso entender melhor.
-
-E cada nova tecnologia é uma oportunidade de ampliar o que consigo construir.
-
----
-
-<div align="center">
-
-### `while (learning) { build(); }`
-
-<br />
-
-**Construindo software. Explorando tecnologias. Evoluindo a cada projeto.**
-
-<br />
-
-<a href="https://matheusantanadev.vercel.app/">
-  <img src="https://img.shields.io/badge/→%20VISITE%20MEU%20PORTFOLIO-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" />
-</a>
-
-<br />
-<br />
-
-<sub>© Matheus Santana · São Paulo, Brazil</sub>
-
-</div>
+[Explore meu trabalho →](https://matheusantanadev.vercel.app/)
