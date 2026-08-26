@@ -8,14 +8,14 @@
 
 Construindo sistemas reais para entender como o software funciona — e evoluindo a cada projeto.
 
-[![Portfólio](https://img.shields.io/badge/portfolio-24292F?style=flat-square&logo=vercel&logoColor=white)](https://matheusantanadev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-24292F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheussantanadev)
-[![Email](https://img.shields.io/badge/email-24292F?style=flat-square&logo=gmail&logoColor=white)](mailto:matsant.dev@gmail.com)
+[![Portfólio](https://img.shields.io/badge/portfolio-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://matheusantanadev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheussantanadev)
+[![Email](https://img.shields.io/badge/email-7C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:matsant.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/matssgit)
 
 </div>
 
-## `> sobre_mim`
+## 👋 `> sobre_mim`
 
 Minha trajetória em tecnologia começou com infraestrutura, suporte técnico e sistemas — uma base que me ensinou a investigar problemas e entender o que existe por trás da interface. Em 2024, direcionei essa experiência para o desenvolvimento de software. Hoje curso **Análise e Desenvolvimento de Sistemas na UniSantos**.
 
@@ -25,20 +25,20 @@ Aprendo construindo: entendo o problema, modelo a solução, implemento, testo, 
 
 > Full Stack como atuação. Backend como afinidade. Curiosidade como combustível.
 
-## `> foco_atual`
+## 🧠 `> foco_atual`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 — Arquitetura de Aplicações**
+`01` **Arquitetura de Aplicações**
 
 Responsabilidades, limites e evolução do sistema.
 
 </td>
 <td width="50%" valign="top">
 
-**02 — Backend Engineering**
+`02` **Engenharia Backend**
 
 APIs, regras de negócio e integrações.
 
@@ -47,14 +47,14 @@ APIs, regras de negócio e integrações.
 <tr>
 <td width="50%" valign="top">
 
-**03 — Sistemas Full Stack**
+`03` **Sistemas Full Stack**
 
 Interface, serviços e dados como um sistema único.
 
 </td>
 <td width="50%" valign="top">
 
-**04 — Testes & Confiabilidade**
+`04` **Testes & Confiabilidade**
 
 Validação, manutenção e evolução segura.
 
@@ -62,83 +62,86 @@ Validação, manutenção e evolução segura.
 </tr>
 </table>
 
-`05 — IA & LLMs` · explorando integrações aplicadas a produtos e fluxos reais
+`05` **IA & LLMs** · explorando integrações aplicadas a produtos e fluxos reais
 
-## `> projetos_selecionados`
+## 🚀 `> projetos_em_destaque`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-`project://fluxa`
+[![Full Stack Product](https://img.shields.io/badge/01_FULL_STACK_PRODUCT-6C63FF?style=flat-square)](https://fluxa-core-app-five.vercel.app/)
 
 ### FLUXA
 
 **Plataforma Full Stack de gestão financeira pessoal.**
 
-Centraliza receitas, despesas, cartões, parcelamentos, assinaturas e gastos recorrentes. Um sistema que conecta interface, API, dados e regras de um mesmo domínio financeiro.
+O FLUXA nasceu da necessidade de centralizar informações financeiras em um único sistema. Organiza receitas, despesas, cartões, parcelamentos, assinaturas e gastos recorrentes conectando **interface, API, dados e regras de negócio** de um mesmo domínio financeiro.
+
+`FINANCE` · `REST API` · `BUSINESS RULES` · `POSTGRESQL` · `FULL STACK`
+
+**Stack**
 
 `React` · `TypeScript` · `Node.js` · `Fastify` · `PostgreSQL` · `Zod`
 
-[![Live Demo](https://img.shields.io/badge/live_demo-24292F?style=flat-square&logo=vercel&logoColor=white)](https://fluxa-core-app-five.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🚀_live_demo-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://fluxa-core-app-five.vercel.app/)
 [![Repositório](https://img.shields.io/badge/repositorio-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/matssgit/fluxa-app)
 
-</td>
-<td width="50%" valign="top">
+---
 
-`project://massa-ao-ponto`
+[![Domain-driven Full Stack System](https://img.shields.io/badge/02_DOMAIN--DRIVEN_SYSTEM-7C3AED?style=flat-square)](https://github.com/matssgit/massa-ao-ponto)
 
 ### Massa ao Ponto
 
 **Sistema Full Stack para modelar a operação real de uma pizzaria.**
 
-Construção incremental voltada a domínio, arquitetura e regras operacionais. Conecta reservas, atendimento, pedidos, delivery, catálogo, checkout e administração.
+O projeto é construído incrementalmente para explorar **modelagem de domínio, arquitetura, regras de negócio, integração entre módulos, testes e evolução de sistemas**. Fluxos como reservas, pedidos, delivery, catálogo e checkout fazem parte de uma mesma operação.
+
+`DOMAIN MODELING` · `BUSINESS RULES` · `REST API` · `TESTING` · `POSTGRESQL`
+
+**Stack**
 
 `Node.js` · `TypeScript` · `Fastify` · `PostgreSQL` · `Drizzle` · `Zod` · `Vitest` · `Docker`
 
-`status: em desenvolvimento`
+[![Em desenvolvimento](https://img.shields.io/badge/🚧_em_desenvolvimento-D97706?style=flat-square)](https://github.com/matssgit/massa-ao-ponto)
 
 [![Repositório](https://img.shields.io/badge/repositorio-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/matssgit/massa-ao-ponto)
 
-</td>
-</tr>
-</table>
+## 🛠️ `> tecnologias`
 
-## `> tecnologias`
-
-### Principal
+### ⚡ Principal
 
 <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs" height="38" alt="TypeScript, JavaScript, Node.js, React e Next.js" />
 
 TypeScript · JavaScript · Node.js · React · Next.js
 
-### Backend & Dados
+### ⚙️ Backend & Dados
 
 <img src="https://skillicons.dev/icons?i=express,postgres,mysql,sqlite,mongodb" height="38" alt="Express, PostgreSQL, MySQL, SQLite e MongoDB" />
 
-Fastify · Express · Zod · REST APIs · PostgreSQL · MySQL · SQLite · MongoDB · Drizzle
+Fastify · Zod · Drizzle · REST APIs
 
-### Frontend & Engenharia
+### 🎨 Frontend & Engenharia
 
 <img src="https://skillicons.dev/icons?i=vite,tailwind,git,github,docker,vitest" height="38" alt="Vite, Tailwind CSS, Git, GitHub, Docker e Vitest" />
 
-Vite · Tailwind CSS · Git · GitHub · Docker · Vitest · testes automatizados
+Vite · Tailwind CSS · Git · Docker · Vitest · testes automatizados
 
-### Explorando
+### 🧪 Explorando
 
 <img src="https://skillicons.dev/icons?i=python,go,java" height="38" alt="Python, Go e Java" />
 
-Python · Go · Java · IA/LLMs
+Python · Go · Java · IA/LLMs · execução local de modelos
 
-## `> como_eu_penso`
+## 🧩 `> como_eu_penso`
 
-`ENTENDER` → `MODELAR` → `CONSTRUIR` → `VALIDAR` → `EVOLUIR`
+<div align="center">
+
+<code>ENTENDER</code> → <code>MODELAR</code> → <code>CONSTRUIR</code> → <code>VALIDAR</code> → <code>EVOLUIR</code>
+
+</div>
 
 Antes do código, procuro compreender o problema, os dados e as regras. A implementação vira uma forma de testar esse entendimento; a refatoração, uma forma de amadurecê-lo.
 
 > Não quero apenas fazer funcionar. Quero entender por que funciona.
 
-## `> jornada`
+## 📍 `> jornada`
 
 ```text
 2024 ─ Fundamentos
@@ -159,6 +162,8 @@ Não coleciono tecnologias. Uso projetos para entender sistemas, testar decisõe
 
 `while (learning) { build(); }`
 
-[Explore meu trabalho →](https://matheusantanadev.vercel.app/)
+Construindo software, entendendo sistemas e evoluindo projeto por projeto.
+
+[![Explorar portfólio](https://img.shields.io/badge/explorar_portfolio-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://matheusantanadev.vercel.app/)
 
 </div>
