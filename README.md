@@ -1,4 +1,6 @@
+<div align="center">
 ![Matheus Santana trabalhando em um computador](./assets/header.gif)
+</div>
 
 <div align="center">
 
