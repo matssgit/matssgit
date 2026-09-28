@@ -6,7 +6,7 @@
 
 `Software Developer · Full Stack`
 
-Desenvolvendo aplicações web com TypeScript, React, Node.js e PostgreSQL.
+Desenvolvendo aplicações web com JavaScript, TypeScript, React, Node.js e PostgreSQL.
 
 <p align="center">
   <a href="https://matheusantanadev.vercel.app/"><img src="https://img.shields.io/badge/portfolio-6C63FF?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfólio" /></a>
