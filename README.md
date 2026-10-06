@@ -130,7 +130,7 @@ Os projetos comerciais utilizam **repositórios privados**, portanto o código-f
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="Node.js, Python" />
 
 `Node.js` · `Fastify` · `Express` · `Zod` · `REST APIs`
 
