@@ -1,12 +1,13 @@
 ![Matheus Santana trabalhando em um computador](./assets/header.gif)
 
+
 <div align="center">
 
 # Matheus Santana
 
 `Software Developer · Full Stack`
 
-Desenvolvendo aplicações web com JavaScript, TypeScript, React, Node.js e PostgreSQL.
+Desenvolvendo aplicações web e sistemas de negócio com JavaScript, TypeScript, React, Node.js e PostgreSQL.
 
 <p align="center">
   <a href="https://matheusantanadev.vercel.app/"><img src="https://img.shields.io/badge/portfolio-6C63FF?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfólio" /></a>
@@ -22,11 +23,13 @@ Desenvolvendo aplicações web com JavaScript, TypeScript, React, Node.js e Post
 
 Sou desenvolvedor Full Stack e estudante de **Análise e Desenvolvimento de Sistemas na UniSantos**.
 
-Minha experiência prática em desenvolvimento vem dos projetos que construo, principalmente no ecossistema JavaScript/TypeScript, trabalhando com frontend, APIs, regras de negócio, bancos relacionais e testes.
+Desenvolvo aplicações web principalmente no ecossistema JavaScript/TypeScript, trabalhando com frontend, APIs, autenticação, bancos relacionais, regras de negócio e testes.
 
-Antes de direcionar minha carreira para desenvolvimento de software, trabalhei com suporte técnico, redes e sistemas. Essa experiência influencia bastante minha forma de programar: procuro investigar o problema, entender os dados e as regras antes de partir para a implementação.
+Atualmente também desenvolvo **sistemas sob demanda para clientes**, transformando processos que antes dependiam de papel, planilhas ou ferramentas genéricas em aplicações adaptadas à operação de cada negócio.
 
-Atualmente trabalho principalmente com:
+Tenho experiência profissional anterior com suporte técnico, redes e sistemas, o que influencia minha forma de desenvolver: antes de implementar, procuro entender o problema, os dados envolvidos e como o software será utilizado na prática.
+
+**Stack principal**
 
 `TypeScript` · `JavaScript` · `Node.js` · `React` · `Fastify` · `PostgreSQL`
 
@@ -44,15 +47,15 @@ Atualmente trabalho principalmente com:
 
 Sistema para gerenciamento de receitas, despesas, cartões, parcelamentos, assinaturas e recorrências.
 
-Um dos principais desafios do projeto foi modelar corretamente a diferença entre uma **compra realizada no cartão** e uma **saída efetiva de caixa**, mantendo consistência entre cartões, parcelas, carteiras e movimentações financeiras.
+Um dos principais desafios do projeto foi modelar a diferença entre uma **compra realizada no cartão** e uma **saída efetiva de caixa**, mantendo consistência entre cartões, parcelas, carteiras e movimentações financeiras.
 
 No projeto implementei:
 
 * API REST com Node.js e Fastify
 * autenticação e autorização por usuário
 * validação com Zod
-* persistência com PostgreSQL e Knex
-* integração React/TypeScript com o backend
+* PostgreSQL e Knex
+* frontend React + TypeScript
 * transações em operações financeiras
 * testes de integração
 * estrutura em monorepo
@@ -69,11 +72,11 @@ No projeto implementei:
 
 ### `02` · MASSA AO PONTO
 
-**Sistema para centralizar a operação de uma pizzaria.**
+**Backend para operação de uma pizzaria.**
 
-Projeto em desenvolvimento envolvendo pedidos para entrega, retirada e consumo no local, reservas, pagamentos, cancelamentos e disponibilidade de horários.
+Projeto envolvendo pedidos para entrega, retirada e consumo no local, reservas, pagamentos, cancelamentos e disponibilidade de horários.
 
-No backend, as regras de negócio são separadas da persistência através de casos de uso e repositórios, com implementações usando Drizzle e também repositórios em memória para testes.
+As regras de negócio são separadas da persistência através de casos de uso e repositórios, permitindo utilizar implementações com banco de dados ou repositórios em memória durante os testes.
 
 O projeto inclui:
 
@@ -83,14 +86,12 @@ O projeto inclui:
 * controle de acesso por papéis
 * isolamento de dados entre estabelecimentos
 * transações em operações críticas
-* testes com Vitest
+* testes automatizados com Vitest
 * ambiente com Docker
 
 **Stack**
 
 `Node.js` · `TypeScript` · `Fastify` · `PostgreSQL` · `Drizzle` · `Zod` · `Vitest` · `Docker`
-
-**🚧 Em desenvolvimento**
 
 <a href="https://github.com/matssgit/massa-ao-ponto"><img src="https://img.shields.io/badge/repositorio-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Repositório" /></a>
 
@@ -100,44 +101,72 @@ O projeto inclui:
 
 ---
 
+## 💼 `> desenvolvimento_para_clientes`
+
+Além dos projetos públicos, atualmente desenvolvo aplicações comerciais sob demanda.
+
+Tenho trabalhado em sistemas envolvendo:
+
+* agendamento e gestão de clientes
+* autenticação, sessões e controle de acesso
+* disponibilidade e regras de agenda
+* pagamentos e controle financeiro
+* PDV, estoque e operação de caixa
+* relatórios e indicadores
+* aplicações responsivas para desktop, tablet e mobile
+* modelagem de regras específicas de cada negócio
+
+Os projetos comerciais utilizam **repositórios privados**, portanto o código-fonte não é disponibilizado publicamente.
+
+---
+
 ## 🛠️ `> stack`
 
-### Desenvolvimento
+### Linguagens & Frontend
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react" height="38" alt="TypeScript, JavaScript, Node.js e React" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,html,css" height="38" alt="TypeScript, JavaScript, React, HTML e CSS" />
 
-`TypeScript` · `JavaScript` · `Node.js` · `React`
+`TypeScript` · `JavaScript` · `React` · `HTML` · `CSS` · `Tailwind CSS`
 
-### Backend & Dados
+### Backend
 
-<img src="https://skillicons.dev/icons?i=postgres" height="38" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="Node.js" />
 
-`Fastify` · `PostgreSQL` · `SQL` · `Knex` · `Drizzle` · `Zod` · `REST APIs`
+`Node.js` · `Fastify` · `Express` · `Zod` · `REST APIs`
 
-### Ferramentas & Testes
+### Banco de Dados
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vitest" height="38" alt="Git, GitHub, Docker e Vitest" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="38" alt="PostgreSQL, MySQL e SQLite" />
+
+`PostgreSQL` · `MySQL` · `SQLite` · `SQL` · `Knex` · `Drizzle ORM`
+
+### Testes & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vitest,vscode" height="38" alt="Git, GitHub, Docker, Vitest e VS Code" />
 
 `Git` · `GitHub` · `Docker` · `Vitest` · `Testes de integração`
 
 ---
 
-## 🧠 `> como_trabalho`
+## 🧠 `> como_desenvolvo`
 
 <div align="center">
 
-<code>ENTENDER</code> → <code>MODELAR</code> → <code>IMPLEMENTAR</code> → <code>TESTAR</code> → <code>EVOLUIR</code>
+<code>PROBLEMA</code> → <code>REGRAS</code> → <code>DADOS</code> → <code>IMPLEMENTAÇÃO</code> → <code>TESTES</code>
 
 </div>
 
-Procuro entender primeiro o problema, os dados envolvidos e as regras de negócio. A implementação vem depois, seguida por testes e refatorações conforme o sistema evolui.
+Antes de escrever código, procuro entender como o sistema será utilizado, quais são as regras envolvidas e como os dados precisam se relacionar.
 
-> Não quero apenas fazer funcionar. Quero entender por que funciona.
+A partir disso, estruturo a aplicação, implemento as regras e valido o comportamento com testes e uso real.
 
 ---
 
 <div align="center">
 
+### Quer conhecer melhor meu trabalho?
+
 [![Explorar portfólio](https://img.shields.io/badge/explorar_portfolio-6C63FF?style=flat-square\&logo=vercel\&logoColor=white)](https://matheusantanadev.vercel.app/)
 
 </div>
+
