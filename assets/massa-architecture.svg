@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 448" role="img" aria-labelledby="title desc">
+<title id="title">Massa ao Ponto — Arquitetura da aplicação</title>
+<desc id="desc">Diagrama ilustrativo das camadas web, API e banco de dados e domínios de reservas, pedidos e pagamentos.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10151B"/><stop offset="1" stop-color="#1B2226"/></linearGradient>
+  <pattern id="lines" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#E6C78E" stroke-opacity=".065"/></pattern>
+</defs>
+<rect width="760" height="448" rx="16" fill="url(#bg)"/>
+<rect width="760" height="448" rx="16" fill="url(#lines)"/>
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="44" y="67" fill="#E3C180" font-size="13" letter-spacing="3" font-weight="700">PROJETO FULL STACK</text>
+  <text x="44" y="117" fill="#F7F4EE" font-size="40" font-weight="700">Massa ao Ponto</text>
+  <text x="44" y="148" fill="#AAB0B6" font-size="16">Domínios separados. Regras testáveis. Dados consistentes.</text>
+  <path d="M44 181H716" stroke="#D8B477" stroke-opacity=".27"/>
+  <g font-size="14" font-weight="700" text-anchor="middle">
+    <rect x="46" y="218" width="189" height="103" rx="12" fill="#262E32" stroke="#B9A076" stroke-opacity=".8"/>
+    <rect x="286" y="218" width="189" height="103" rx="12" fill="#262E32" stroke="#B9A076" stroke-opacity=".8"/>
+    <rect x="526" y="218" width="189" height="103" rx="12" fill="#262E32" stroke="#B9A076" stroke-opacity=".8"/>
+    <text x="140" y="256" fill="#F5F1EA" font-size="22">WEB</text>
+    <text x="380" y="256" fill="#F5F1EA" font-size="22">API</text>
+    <text x="620" y="256" fill="#F5F1EA" font-size="22">DADOS</text>
+    <text x="140" y="289" fill="#D6B983" font-weight="400">React · TypeScript</text>
+    <text x="380" y="289" fill="#D6B983" font-weight="400">Fastify · Zod</text>
+    <text x="620" y="289" fill="#D6B983" font-weight="400">PostgreSQL · Drizzle</text>
+    <path d="M239 268H282M279 263L284 268L279 273" stroke="#D0AD74" stroke-width="2" fill="none"/>
+    <path d="M479 268H522M519 263L524 268L519 273" stroke="#D0AD74" stroke-width="2" fill="none"/>
+  </g>
+  <g font-size="15" text-anchor="middle">
+    <rect x="46" y="352" width="209" height="52" rx="9" fill="#10151B" stroke="#4D4B46"/>
+    <rect x="275" y="352" width="209" height="52" rx="9" fill="#10151B" stroke="#4D4B46"/>
+    <rect x="504" y="352" width="209" height="52" rx="9" fill="#10151B" stroke="#4D4B46"/>
+    <text x="151" y="385" fill="#E8D6B9">RESERVAS</text>
+    <text x="380" y="385" fill="#E8D6B9">PEDIDOS</text>
+    <text x="609" y="385" fill="#E8D6B9">PAGAMENTOS</text>
+  </g>
+</g>
+</svg>
