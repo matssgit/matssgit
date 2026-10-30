@@ -1,172 +1,125 @@
 ![Matheus Santana trabalhando em um computador](./assets/header.gif)
 
-
 <div align="center">
 
 # Matheus Santana
 
-`Software Developer · Full Stack`
+**Desenvolvedor Full Stack** · `JavaScript` · `TypeScript` · `Node.js` · `React`
 
-Desenvolvendo aplicações web e sistemas de negócio com JavaScript, TypeScript, React, Node.js e PostgreSQL.
+Desenvolvo aplicações web e sistemas de negócio, do levantamento de requisitos à implementação de interfaces, APIs, bancos de dados e testes.
 
-<p align="center">
-  <a href="https://matheusantanadev.vercel.app/"><img src="https://img.shields.io/badge/portfolio-6C63FF?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfólio" /></a>
-  <a href="https://www.linkedin.com/in/matheussantanadev"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:matsant.dev@gmail.com"><img src="https://img.shields.io/badge/email-7C3AED?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+<p>
+  <a href="https://matheusantanadev.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-24292F?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/matheussantanadev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:matsant.dev@gmail.com"><img src="https://img.shields.io/badge/Contato-B8860B?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Contato por e-mail" /></a>
 </p>
 
 </div>
 
 ---
 
-## 👋 `> sobre_mim`
+## 👋 Sobre mim
 
-Sou desenvolvedor Full Stack e estudante de **Análise e Desenvolvimento de Sistemas na UniSantos**.
+Sou desenvolvedor Full Stack com foco no ecossistema **JavaScript/TypeScript**. Construo aplicações que envolvem regras de negócio, autenticação e autorização, persistência relacional, integrações e testes automatizados.
 
-Desenvolvo aplicações web principalmente no ecossistema JavaScript/TypeScript, trabalhando com frontend, APIs, autenticação, bancos relacionais, regras de negócio e testes.
+Além dos projetos autorais, desenvolvo **soluções sob demanda para pequenos negócios**, participando da descoberta do problema, modelagem, desenvolvimento e validação dos fluxos operacionais.
 
-Atualmente também desenvolvo **sistemas sob demanda para clientes**, transformando processos que antes dependiam de papel, planilhas ou ferramentas genéricas em aplicações adaptadas à operação de cada negócio.
+Minha trajetória anterior em suporte técnico, redes e sistemas contribui para uma visão prática: entender o cenário de uso, os riscos e o comportamento esperado antes de escolher uma solução técnica.
 
-Tenho experiência profissional anterior com suporte técnico, redes e sistemas, o que influencia minha forma de desenvolver: antes de implementar, procuro entender o problema, os dados envolvidos e como o software será utilizado na prática.
+Cursando **Análise e Desenvolvimento de Sistemas — UniSantos**.
 
-**Stack principal**
+## 🚀 Projetos em destaque
 
-`TypeScript` · `JavaScript` · `Node.js` · `React` · `Fastify` · `PostgreSQL`
+### 01 · [Fluxa](https://github.com/matssgit/fluxa-app) — Gestão financeira pessoal
 
----
+**Full Stack · versão estável de portfólio** · [Aplicação online](https://fluxa-core-app-five.vercel.app/)
 
-## 🚀 `> projetos_em_destaque`
+Aplicação para gerenciar receitas, despesas, cartões de crédito, parcelamentos, assinaturas, metas e movimentações de caixa.
 
-<table>
-<tr>
-<td valign="top" width="50%">
+- **Consistência financeira:** transações e controle de concorrência em operações com cartões, parcelas e saldos; distinção entre compra no crédito e saída efetiva de caixa.
+- **Segurança:** autenticação, isolamento dos dados por usuário, recuperação de senha, revogação de sessões e autenticação em duas etapas (2FA).
+- **Confiabilidade:** pagamentos recorrentes idempotentes, migrations e testes de integração; **65 testes automatizados** documentados no projeto.
+- **Experiência:** interface responsiva e PWA instalável.
 
-### `01` · FLUXA
+`React` · `TypeScript` · `Fastify` · `PostgreSQL` · `Knex` · `Zod` · `Vitest`
 
-**Aplicação Full Stack de gestão financeira pessoal.**
+[**Ver repositório →**](https://github.com/matssgit/fluxa-app) · [**Abrir aplicação →**](https://fluxa-core-app-five.vercel.app/)
 
-Sistema para gerenciamento de receitas, despesas, cartões, parcelamentos, assinaturas e recorrências.
+### 02 · [Massa ao Ponto](https://github.com/matssgit/massa-ao-ponto) — Gestão de pizzaria
 
-Um dos principais desafios do projeto foi modelar a diferença entre uma **compra realizada no cartão** e uma **saída efetiva de caixa**, mantendo consistência entre cartões, parcelas, carteiras e movimentações financeiras.
+**Full Stack · em desenvolvimento**
 
-No projeto implementei:
+Sistema de gestão para operação de pizzarias, com reservas, mesas, catálogo, pedidos, atendimento presencial, delivery, pagamentos simulados e consultas para dashboard.
 
-* API REST com Node.js e Fastify
-* autenticação e autorização por usuário
-* validação com Zod
-* PostgreSQL e Knex
-* frontend React + TypeScript
-* transações em operações financeiras
-* testes de integração
-* estrutura em monorepo
+- **Arquitetura:** monólito modular organizado por domínios, casos de uso e repositórios.
+- **Regras de negócio:** permissões por papel, vínculo com estabelecimento, disponibilidade de horários e operações transacionais.
+- **Qualidade:** testes unitários, de integração e E2E com PostgreSQL real; **272 testes automatizados** registrados no README do projeto.
+- **Frontend:** base em React com autenticação, sessão, seleção de restaurante e navegação protegida; telas operacionais ainda em construção.
 
-**Stack**
+`Node.js` · `TypeScript` · `React` · `Fastify` · `Drizzle` · `PostgreSQL` · `Vitest` · `Docker`
 
-`React` · `TypeScript` · `Node.js` · `Fastify` · `PostgreSQL` · `Knex` · `Zod`
+[**Ver repositório →**](https://github.com/matssgit/massa-ao-ponto)
 
-<a href="https://fluxa-core-app-five.vercel.app/"><img src="https://img.shields.io/badge/🚀_live_demo-6C63FF?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Live Demo" /></a> <a href="https://github.com/matssgit/fluxa-app"><img src="https://img.shields.io/badge/repositorio-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Repositório" /></a>
+### 03 · [Elite Leilões](https://github.com/matssgit/elite-dev-verzel/tree/codex/elite-verzel-demo) — Plataforma de leilões
 
-</td>
+**Desafio técnico · demonstração isolada com valores simulados**
 
-<td valign="top" width="50%">
+Aplicação Full Stack de leilões com catálogo, autenticação, perfis, lances em tempo real e fluxo financeiro demonstrativo.
 
-### `02` · MASSA AO PONTO
+- **Concorrência:** validação de lances, reservas de saldo, idempotência e extensão automática de leilões (anti-sniping).
+- **Tempo real:** comunicação via WebSocket para atualização da disputa.
+- **Rastreabilidade:** liquidação de leilões, comprovantes e histórico de auditoria com assinaturas e checkpoints verificáveis.
+- **Entrega:** ambiente demonstrativo separado da implantação original, com validação funcional documentada.
 
-**Backend para operação de uma pizzaria.**
+`React` · `TypeScript` · `Node.js` · `Fastify` · `PostgreSQL` · `Drizzle` · `WebSocket`
 
-Projeto envolvendo pedidos para entrega, retirada e consumo no local, reservas, pagamentos, cancelamentos e disponibilidade de horários.
-
-As regras de negócio são separadas da persistência através de casos de uso e repositórios, permitindo utilizar implementações com banco de dados ou repositórios em memória durante os testes.
-
-O projeto inclui:
-
-* Node.js, TypeScript e Fastify
-* PostgreSQL e Drizzle
-* autenticação e autorização
-* controle de acesso por papéis
-* isolamento de dados entre estabelecimentos
-* transações em operações críticas
-* testes automatizados com Vitest
-* ambiente com Docker
-
-**Stack**
-
-`Node.js` · `TypeScript` · `Fastify` · `PostgreSQL` · `Drizzle` · `Zod` · `Vitest` · `Docker`
-
-<a href="https://github.com/matssgit/massa-ao-ponto"><img src="https://img.shields.io/badge/repositorio-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Repositório" /></a>
-
-</td>
-</tr>
-</table>
+[**Ver código da demonstração →**](https://github.com/matssgit/elite-dev-verzel/tree/codex/elite-verzel-demo) · [**Abrir demo →**](https://elite-verzel-demo.vercel.app/)
 
 ---
 
-## 💼 `> desenvolvimento_para_clientes`
+## 💼 Desenvolvimento para clientes
 
-Além dos projetos públicos, atualmente desenvolvo aplicações comerciais sob demanda.
+Também desenvolvo aplicações comerciais personalizadas. Entre os problemas que venho trabalhando estão:
 
-Tenho trabalhado em sistemas envolvendo:
+- **Barbearias:** agendamentos, disponibilidade, gestão de clientes e serviços, atendimento e controle financeiro.
+- **Varejo:** PDV com interface para tablet, estoque por categoria e tamanho, operação de caixa e relatórios de vendas.
+- **Operação e gestão:** permissões por perfil, fluxos administrativos, regras específicas de negócio e interfaces adaptadas a desktop e dispositivos móveis.
 
-* agendamento e gestão de clientes
-* autenticação, sessões e controle de acesso
-* disponibilidade e regras de agenda
-* pagamentos e controle financeiro
-* PDV, estoque e operação de caixa
-* relatórios e indicadores
-* aplicações responsivas para desktop, tablet e mobile
-* modelagem de regras específicas de cada negócio
+Nesse trabalho participo do **levantamento de requisitos, definição de regras, modelagem de dados, implementação e testes**. Parte do código comercial não é disponibilizada publicamente.
 
-Os projetos comerciais utilizam **repositórios privados**, portanto o código-fonte não é disponibilizado publicamente.
+## 🛠️ Tecnologias e ferramentas
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,postgres,docker,git,github,vitest" height="40" alt="JavaScript, TypeScript, React, Node.js, PostgreSQL, Docker, Git, GitHub e Vitest" />
+</div>
 
-## 🛠️ `> stack`
+| Área | Tecnologias e práticas |
+| --- | --- |
+| **Frontend** | JavaScript, TypeScript, React, Vite, Tailwind CSS, HTML e CSS |
+| **Backend** | Node.js, Fastify, Express, APIs REST, Zod, autenticação e autorização |
+| **Dados** | PostgreSQL, SQL, MySQL, SQLite, Knex e Drizzle ORM |
+| **Qualidade** | Vitest, testes de integração e E2E, validação de contratos, Git e GitHub Actions |
+| **Infraestrutura** | Docker, Vercel, Render e noções de CI/CD |
+| **Conhecimentos adicionais** | Python, fundamentos de Java e comunicação em tempo real com WebSocket |
 
-### Linguagens & Frontend
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,html,css" height="38" alt="TypeScript, JavaScript, React, HTML e CSS" />
-
-`TypeScript` · `JavaScript` · `React` · `HTML` · `CSS` · `Tailwind CSS`
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,python" height="38" alt="Node.js, Python" />
-
-`Node.js` · `Fastify` · `Express` · `Zod` · `REST APIs`
-
-### Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="38" alt="PostgreSQL, MySQL e SQLite" />
-
-`PostgreSQL` · `MySQL` · `SQLite` · `SQL` · `Knex` · `Drizzle ORM`
-
-### Testes & Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vitest,vscode" height="38" alt="Git, GitHub, Docker, Vitest e VS Code" />
-
-`Git` · `GitHub` · `Docker` · `Vitest` · `Testes de integração`
-
----
-
-## 🧠 `> como_desenvolvo`
+## 🧠 Como desenvolvo
 
 <div align="center">
 
-<code>PROBLEMA</code> → <code>REGRAS</code> → <code>DADOS</code> → <code>IMPLEMENTAÇÃO</code> → <code>TESTES</code>
+`PROBLEMA` → `REGRAS` → `DADOS` → `IMPLEMENTAÇÃO` → `TESTES`
 
 </div>
 
-Antes de escrever código, procuro entender como o sistema será utilizado, quais são as regras envolvidas e como os dados precisam se relacionar.
+Procuro começar pelo comportamento que o sistema precisa oferecer. A partir dele, organizo os dados, defino os limites dos módulos, implemento as funcionalidades e verifico cenários de sucesso, falha e concorrência quando relevantes.
 
-A partir disso, estruturo a aplicação, implemento as regras e valido o comportamento com testes e uso real.
+Prefiro decisões técnicas justificáveis, código legível e evolução incremental a adicionar complexidade sem necessidade.
 
 ---
 
 <div align="center">
 
-### Quer conhecer melhor meu trabalho?
+**Conheça mais projetos e detalhes do meu trabalho no portfólio.**
 
-[![Explorar portfólio](https://img.shields.io/badge/explorar_portfolio-6C63FF?style=flat-square\&logo=vercel\&logoColor=white)](https://matheusantanadev.vercel.app/)
+[**Acessar portfólio →**](https://matheusantanadev.vercel.app/) · [**Entrar em contato →**](mailto:matsant.dev@gmail.com)
 
 </div>
-
