@@ -24,12 +24,23 @@
     <rect x="0" y="0" width="333" height="232" rx="13" fill="#171B21" stroke="#55504A" stroke-opacity=".8"/>
     <path d="M0 41H333" stroke="#393D44"/>
     <circle cx="23" cy="21" r="5" fill="#AD5E54"/><circle cx="41" cy="21" r="5" fill="#CAA35D"/><circle cx="59" cy="21" r="5" fill="#5F987B"/>
-    <text x="311" y="25" fill="#9198A2" font-size="11" text-anchor="end">projetos</text>
-    <g font-family="Consolas, 'Courier New', monospace" font-size="14">
-      <text x="19" y="83" fill="#727A85">01</text><text x="55" y="83" fill="#D3D7DC">Fluxa</text><text x="132" y="83" fill="#C7A468">finanças</text>
-      <text x="19" y="119" fill="#727A85">02</text><text x="55" y="119" fill="#D3D7DC">Massa ao Ponto</text><text x="220" y="119" fill="#C7A468">pizzaria</text>
-      <text x="19" y="155" fill="#727A85">03</text><text x="55" y="155" fill="#D3D7DC">Cebola Barber</text><text x="220" y="155" fill="#C7A468">agenda</text>
-      <text x="19" y="191" fill="#727A85">04</text><text x="55" y="191" fill="#D3D7DC">Número 1 Store</text><text x="220" y="191" fill="#C7A468">PDV</text>
+    <text x="311" y="25" fill="#9198A2" font-size="11" text-anchor="end">server.ts</text>
+    <g font-family="Consolas, 'Courier New', monospace" font-size="13">
+      <text x="19" y="81" fill="#727A85">01</text>
+      <text x="55" y="81"><tspan fill="#C59BDF">import</tspan><tspan fill="#D3D7DC"> Fastify </tspan><tspan fill="#C59BDF">from</tspan><tspan fill="#D8B678"> 'fastify'</tspan></text>
+
+      <text x="19" y="108" fill="#727A85">02</text>
+
+      <text x="19" y="135" fill="#727A85">03</text>
+      <text x="55" y="135"><tspan fill="#C59BDF">const</tspan><tspan fill="#D3D7DC"> app = </tspan><tspan fill="#E3C180">Fastify</tspan><tspan fill="#D3D7DC">()</tspan></text>
+
+      <text x="19" y="162" fill="#727A85">04</text>
+
+      <text x="19" y="189" fill="#727A85">05</text>
+      <text x="55" y="189"><tspan fill="#D3D7DC">app.</tspan><tspan fill="#87BFB0">get</tspan><tspan fill="#D3D7DC">(</tspan><tspan fill="#D8B678">'/health'</tspan><tspan fill="#D3D7DC">, </tspan><tspan fill="#C59BDF">async</tspan><tspan fill="#D3D7DC"> () =&gt; ({</tspan></text>
+
+      <text x="19" y="213" fill="#727A85">06</text>
+      <text x="70" y="213"><tspan fill="#D3D7DC">status: </tspan><tspan fill="#D8B678">'ok'</tspan><tspan fill="#D3D7DC"> }))</tspan></text>
     </g>
   </g>
 </g>
