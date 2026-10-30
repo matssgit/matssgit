@@ -10,8 +10,6 @@
 
 <br/><br/>
 
-**Transformo necessidades em aplicações web — da regra de negócio à experiência de uso.**
-
 `Full Stack` &nbsp;•&nbsp; `JavaScript / TypeScript` &nbsp;•&nbsp; `Node.js / React`
 
 </div>
@@ -20,17 +18,15 @@
 
 ### 01 / Sobre
 
-Sou **desenvolvedor Full Stack**, com foco em construir aplicações web e sistemas que resolvem problemas concretos. Trabalho com interfaces, APIs REST, autenticação, bancos relacionais, modelagem de domínio e testes.
+Sou desenvolvedor Full Stack, com foco em **JavaScript, TypeScript, React e Node.js**. Desenvolvo projetos próprios e sistemas sob demanda para clientes.
 
-Desenvolvo **produtos autorais e softwares sob demanda para clientes**, desde o entendimento do processo até a implementação e validação. Minha experiência anterior com suporte técnico, redes e sistemas me ajuda a olhar também para a operação, os usuários e a confiabilidade do que construo.
+Trabalho com frontend, APIs, autenticação, bancos de dados relacionais e testes. Antes de atuar com desenvolvimento, trabalhei com suporte técnico, redes e sistemas.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas na UniSantos**.
+Curso **Análise e Desenvolvimento de Sistemas na UniSantos**.
 
 <br/>
 
 ### 02 / Projetos selecionados
-
-> Uma seleção dos projetos que melhor representam meu trabalho com produto, arquitetura e regras de negócio.
 
 <table>
 <tr>
@@ -45,7 +41,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas na UniSantos**.
 
 Aplicação para organizar receitas, despesas, cartões, parcelamentos, assinaturas e metas.
 
-**Destaque técnico:** consistência entre crédito e fluxo de caixa, transações com controle de concorrência, sessões revogáveis e autenticação em duas etapas.
+O projeto inclui operações financeiras com transações e controle de concorrência, sessões revogáveis, autenticação em duas etapas e testes de integração.
 
 `React` `TypeScript` `Fastify` `PostgreSQL` `Knex`
 
@@ -65,7 +61,7 @@ Aplicação para organizar receitas, despesas, cartões, parcelamentos, assinatu
 
 Sistema para reservas, mesas, catálogo, pedidos, delivery, atendimento presencial e pagamentos simulados.
 
-**Destaque técnico:** arquitetura modular por domínio, isolamento entre estabelecimentos, transações e testes com PostgreSQL real. O frontend operacional está em construção.
+O backend tem módulos separados por domínio, controle de acesso por estabelecimento e testes com PostgreSQL real. As telas operacionais do frontend ainda estão em desenvolvimento.
 
 `Node.js` `React` `Fastify` `Drizzle` `Vitest`
 
@@ -88,40 +84,34 @@ Sistema para reservas, mesas, catálogo, pedidos, delivery, atendimento presenci
 
 <br/>
 
-### 03 / Software para negócios reais
+### 03 / Projetos para clientes
 
-Além dos projetos de portfólio, atuo no desenvolvimento de **soluções personalizadas para pequenos negócios**. O objetivo não é apenas digitalizar telas: é compreender o funcionamento de cada operação e transformá-lo em fluxos de trabalho mais simples, organizados e confiáveis.
+Também desenvolvo sistemas para pequenos negócios. Atualmente trabalho nestes dois projetos:
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### ✂️ Agendamento & atendimento
+#### ✂️ Cebola Barber
 
-**Cebola Barber**
+**Sistema de gestão para barbearia**
 
-Sistema para a rotina de uma barbearia: agendamento online, gestão de clientes e serviços, disponibilidade, acompanhamento de atendimentos e controles administrativos.
-
-**O problema:** organizar a agenda e a operação sem depender de anotações ou processos desconectados.
+Agendamento online, cadastro de clientes e serviços, configuração de horários, agenda administrativa e acompanhamento dos atendimentos. Interface para celular, computador e tablet.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🛍️ Vendas & estoque
+#### 🛍️ Número 1 Store
 
-**Número 1 Store**
+**PDV e gestão de loja**
 
-PDV e gestão de loja, com fluxo de vendas pensado para tablet, estoque por categoria e tamanho, movimentações de caixa e acompanhamento de indicadores.
-
-**O problema:** tornar vendas, controle de mercadorias e conferência do negócio mais práticos no dia a dia.
+Registro de vendas em tablet, estoque por categoria e tamanho, abertura e fechamento de caixa, cadastro de funcionários e relatórios de vendas.
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-**Descoberta e requisitos** &nbsp;→&nbsp; **Modelagem** &nbsp;→&nbsp; **Desenvolvimento** &nbsp;→&nbsp; **Testes e ajustes**
 
 <sub>As soluções comerciais estão em desenvolvimento e evolução conforme as necessidades dos clientes. Partes do código e dados operacionais não são públicos.</sub>
 
@@ -150,26 +140,9 @@ PDV e gestão de loja, com fluxo de vendas pensado para tablet, estoque por cate
 
 <br/>
 
-### 05 / Como penso software
-
 <div align="center">
-
-`ENTENDER O PROBLEMA` → `MODELAR AS REGRAS` → `CONSTRUIR` → `VALIDAR`
-
-</div>
-
-Procuro manter as decisões técnicas conectadas ao comportamento esperado do sistema: **dados consistentes, responsabilidades claras, segurança, testes e uma experiência de uso que faça sentido para quem está na ponta**.
-
----
-
-<div align="center">
-
-### Vamos conversar?
-
-Conheça os estudos de caso, veja as aplicações e entre em contato pelo meu portfólio.
 
 <a href="https://matheusantanadev.vercel.app/"><img alt="Explorar portfólio" src="https://img.shields.io/badge/EXPLORAR_PORTFÓLIO-C3A066?style=for-the-badge&logo=vercel&logoColor=121212" /></a>
 
-<sub>Feito para apresentar trabalho real, decisões técnicas e projetos em evolução.</sub>
 
 </div>
