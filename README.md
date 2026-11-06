@@ -76,8 +76,8 @@ Curso **Análise e Desenvolvimento de Sistemas** na UniSantos.
 <h3><img src="./assets/title-clientes.svg" height="56" alt="Projetos para clientes"></h3>
 
 <p>
-<img src="./assets/client-cebola.svg" width="410" alt="Cebola Barber, sistema de gestão para barbearia, em testes e evolução. Agendamento online, cadastro de clientes e serviços, configuração de horários e disponibilidade, agenda administrativa, controle e acompanhamento dos atendimentos, interface para celular, tablet e desktop e aplicação instalável (PWA). Stack: React, TypeScript, Fastify e PostgreSQL. A arte é abstrata e não é uma tela do produto.">
-<img src="./assets/client-numero1.svg" width="410" alt="Número 1 Store, PDV e gestão comercial, em desenvolvimento. Registro de vendas em tablet, estoque por categorias e tamanhos, abertura e fechamento de caixa, cadastro e gestão de funcionários, relatórios de vendas e controle de movimentações de estoque. Stack: React, TypeScript, Fastify e PostgreSQL. A arte é abstrata e não é uma tela do produto.">
+<img src="./assets/client-cebola.svg" width="405" alt="Cebola Barber, sistema de gestão para barbearia, em testes e evolução. Agendamento online, cadastro de clientes e serviços, configuração de horários e disponibilidade, agenda administrativa, controle e acompanhamento dos atendimentos, interface para celular, tablet e desktop e aplicação instalável (PWA). Stack: React, TypeScript, Fastify e PostgreSQL. A arte é abstrata e não é uma tela do produto.">
+<img src="./assets/client-numero1.svg" width="405" alt="Número 1 Store, PDV e gestão comercial, em desenvolvimento. Registro de vendas em tablet, estoque por categorias e tamanhos, abertura e fechamento de caixa, cadastro e gestão de funcionários, relatórios de vendas e controle de movimentações de estoque. Stack: React, TypeScript, Fastify e PostgreSQL. A arte é abstrata e não é uma tela do produto.">
 </p>
 
 <sub>As artes acima são ilustrativas. Partes do código e os dados de clientes são privados.</sub>
