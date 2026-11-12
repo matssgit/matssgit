@@ -1,128 +1,56 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img src="./assets/banner-light.svg" width="100%" alt="Matheus Santana.">
+  <source media="(max-width: 1100px)" srcset="./assets/hero-mobile.svg">
+  <img src="./assets/hero.svg" width="100%" alt="Matheus Santana. Desenvolvedor Full Stack. JavaScript, TypeScript, React, Node.js e PostgreSQL. Projetos próprios e sistemas para clientes.">
 </picture>
 
-<br><br>
+<p><a href="https://matheusantanadev.vercel.app/">Portfólio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/matheussantanadev">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:matsant.dev@gmail.com">E-mail</a></p>
 
-**Desenvolvedor Full Stack**<br>
-JavaScript · TypeScript · React · Node.js · PostgreSQL
+<picture>
+  <source media="(max-width: 1100px)" srcset="./assets/sobre-mobile.svg">
+  <img src="./assets/sobre.svg" width="100%" alt="Sobre. Sou desenvolvedor Full Stack e trabalho com JavaScript, TypeScript, React, Node.js e PostgreSQL. Atuo de forma autônoma pela MS Desenvolvimento de Softwares, criando sistemas para pequenos negócios. Antes do desenvolvimento, trabalhei com suporte técnico e infraestrutura. Formação em Análise e Desenvolvimento de Sistemas pela UniSantos.">
+</picture>
 
-[Portfólio](https://matheusantanadev.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/matheussantanadev) &nbsp;·&nbsp; [E-mail](mailto:matsant.dev@gmail.com)
+<picture>
+  <source media="(max-width: 1100px)" srcset="./assets/trabalhos-mobile.svg">
+  <img src="./assets/trabalhos.svg" width="100%" alt="Trabalhos selecionados. Projetos pessoais e sistemas para pequenos negócios, com as telas reais de cada um.">
+</picture>
 
-<br>
+<a href="https://fluxa-core-app-five.vercel.app/">
+<picture>
+  <source media="(max-width: 1100px)" srcset="./assets/work-fluxa-mobile.svg">
+  <img src="./assets/work-fluxa.svg" width="100%" alt="Fluxa, projeto pessoal publicado. Telas reais do dashboard e dos cartões. Finanças pessoais que separam a compra no cartão da saída de caixa: receitas e despesas, cartões e parcelamentos, assinaturas e metas, com autenticação em duas etapas, sessões revogáveis e operações financeiras em transações no PostgreSQL. React, TypeScript, Node.js, Fastify, PostgreSQL, Knex, Zod e Vitest.">
+</picture>
+</a>
 
-<h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/title-sobre-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/title-sobre-light.svg">
-    <img src="./assets/title-sobre-light.svg" height="40" alt="Sobre">
-  </picture>
-</h3>
+<p><a href="https://fluxa-core-app-five.vercel.app/">Abrir aplicação</a> &nbsp;·&nbsp; <a href="https://github.com/matssgit/fluxa-app">Código no GitHub</a></p>
 
-Sou desenvolvedor Full Stack e trabalho com JavaScript, TypeScript, React, Node.js e PostgreSQL. Atuo de forma autônoma pela MS Desenvolvimento de Softwares, criando sistemas para pequenos negócios.
+<picture>
+  <source media="(max-width: 1100px)" srcset="./assets/work-cebola-mobile.svg">
+  <img src="./assets/work-cebola.svg" width="100%" alt="Cebola Barber, sistema para cliente em desenvolvimento. Telas com dados fictícios: agenda administrativa e reserva pelo celular. Agendamentos e gestão de uma barbearia: o cliente reserva pelo celular em quatro etapas; a administração cuida da agenda, com bloqueios e recorrência, dos clientes, serviços e produtos, das cobranças e dos relatórios. Instalável como aplicativo (PWA). Código privado e sem demonstração pública.">
+</picture>
 
-Antes do desenvolvimento, trabalhei com suporte técnico e infraestrutura. Formação em Análise e Desenvolvimento de Sistemas pela UniSantos.
+<picture>
+  <source media="(max-width: 1100px)" srcset="./assets/work-numero1-mobile.svg">
+  <img src="./assets/work-numero1.svg" width="100%" alt="Número 1 Store, sistema para cliente em desenvolvimento. Telas com dados fictícios: estoque no computador e no celular. Gestão comercial de uma loja: estoque por categoria e tamanho, com custo, preço e alerta de saída, e funcionários com permissões próprias já têm interface e API. Caixa, PDV e relatórios são as próximas etapas. Código privado e sem demonstração pública.">
+</picture>
 
-<br>
+<a href="https://github.com/matssgit/massa-ao-ponto">
+<picture>
+  <source media="(max-width: 1100px)" srcset="./assets/outros-mobile.svg">
+  <img src="./assets/outros.svg" width="100%" alt="Outros projetos. Massa ao Ponto (backend implementado, interface em desenvolvimento): Gestão de pizzarias com foco em arquitetura de backend e regras de negócio, com testes em PostgreSQL real. Quando Chega? (pausado): API de rastreamento de encomendas validada com um provedor simulado.">
+</picture>
+</a>
 
-<h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/title-trabalhos-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/title-trabalhos-light.svg">
-    <img src="./assets/title-trabalhos-light.svg" height="40" alt="Trabalhos selecionados">
-  </picture>
-</h3>
+<p><a href="https://github.com/matssgit/massa-ao-ponto">Massa ao Ponto no GitHub</a> &nbsp;·&nbsp; <a href="https://github.com/matssgit/quando-chega">Quando Chega? no GitHub</a></p>
 
-<a href="https://fluxa-core-app-five.vercel.app/"><img src="./assets/work-fluxa.webp" width="100%" alt="Telas reais do Fluxa: dashboard com saldo, entradas e saídas do mês, e gestão de cartões."></a>
+<picture>
+  <source media="(max-width: 1100px)" srcset="./assets/stack-mobile.svg">
+  <img src="./assets/stack.svg" width="100%" alt="Tecnologias. Principais: JavaScript, TypeScript, React, Node.js, PostgreSQL. Frontend: JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS. Backend: Node.js, Fastify, Express, APIs REST. Banco de dados: PostgreSQL, MySQL, SQLite, Knex, Drizzle. Ferramentas e testes: Git, GitHub, Docker, Vitest, Testes de integração.">
+</picture>
 
-<sub>PROJETO PESSOAL · PUBLICADO</sub>
+<picture>
+  <source media="(max-width: 1100px)" srcset="./assets/contato-mobile.svg">
+  <img src="./assets/contato.svg" width="100%" alt="Contato. Desenvolvedor Full Stack. E-mail: matsant.dev@gmail.com. Os links de portfólio, LinkedIn e e-mail estão logo abaixo.">
+</picture>
 
-### Fluxa
-
-Finanças pessoais que separam a compra no cartão da saída de caixa. Receitas e despesas, cartões e parcelamentos, assinaturas e metas, com autenticação em duas etapas, sessões revogáveis e operações financeiras em transações no PostgreSQL.
-
-<sub>React · TypeScript · Node.js · Fastify · PostgreSQL · Knex · Zod · Vitest</sub>
-
-**[Abrir aplicação](https://fluxa-core-app-five.vercel.app/)** &nbsp;·&nbsp; **[Código no GitHub](https://github.com/matssgit/fluxa-app)**
-
-<br>
-
-<img src="./assets/work-cebola.webp" width="100%" alt="Telas do Cebola Barber com dados fictícios: agenda administrativa e escolha do serviço na reserva pelo celular.">
-
-<sub>SISTEMA PARA CLIENTE · EM DESENVOLVIMENTO</sub>
-
-### Cebola Barber
-
-Agendamentos e gestão de uma barbearia. O cliente reserva pelo celular em quatro etapas; a administração cuida da agenda, com bloqueios e recorrência, dos clientes, serviços e produtos, das cobranças e dos relatórios. Instalável como aplicativo (PWA).
-
-<sub>React · TypeScript · Vite · Tailwind CSS · Node.js · Fastify · Drizzle · PostgreSQL · Vitest</sub>
-
-<sub>Código privado e sem demonstração pública. As telas usam dados fictícios.</sub>
-
-<br>
-
-<img src="./assets/work-numero1.webp" width="100%" alt="Telas do Número 1 Store com dados fictícios: controle de estoque por tamanho no computador e no celular.">
-
-<sub>SISTEMA PARA CLIENTE · EM DESENVOLVIMENTO</sub>
-
-### Número 1 Store
-
-Gestão comercial de uma loja. Estoque por categoria e tamanho, com custo, preço e alerta de saída, e funcionários com permissões próprias já têm interface e API. Caixa, PDV e relatórios são as próximas etapas.
-
-<sub>React · TypeScript · Vite · Tailwind CSS · Node.js · Fastify · Drizzle · PostgreSQL · Vitest</sub>
-
-<sub>Código privado e sem demonstração pública. As telas usam dados fictícios.</sub>
-
-<br>
-
-<sub>PROJETO PESSOAL · BACKEND IMPLEMENTADO, INTERFACE EM DESENVOLVIMENTO</sub>
-
-### Massa ao Ponto
-
-Gestão de pizzarias com foco em arquitetura de backend e regras de negócio: delivery, atendimento no local, catálogo, mesas, reservas e pagamentos simulados, em módulos por domínio com acesso por estabelecimento e testes em PostgreSQL real.
-
-<a href="https://github.com/matssgit/massa-ao-ponto"><img src="./assets/massa-architecture.svg" width="480" alt="Arquitetura do Massa ao Ponto: interface React com login e navegação protegida e telas operacionais em desenvolvimento; API Node.js com Fastify e Zod, em módulos de delivery, atendimento no local, catálogo, mesas, reservas e pagamentos simulados; PostgreSQL com Drizzle e testes com Vitest em banco real."></a>
-
-**[Código no GitHub](https://github.com/matssgit/massa-ao-ponto)**
-
-<br>
-
-**Também no GitHub:** [Quando Chega?](https://github.com/matssgit/quando-chega), API de rastreamento de encomendas validada com um provedor simulado. Projeto pausado.
-
-<br>
-
-<h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/title-tecnologias-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/title-tecnologias-light.svg">
-    <img src="./assets/title-tecnologias-light.svg" height="40" alt="Tecnologias">
-  </picture>
-</h3>
-
-**Frontend**<br>
-JavaScript · TypeScript · React · HTML · CSS · Tailwind CSS
-
-**Backend**<br>
-Node.js · Fastify · Express · APIs REST
-
-**Banco de dados**<br>
-PostgreSQL · MySQL · SQLite · Knex · Drizzle
-
-**Ferramentas e testes**<br>
-Git · GitHub · Docker · Vitest · Testes de integração
-
-<br>
-
-<h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/title-contato-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/title-contato-light.svg">
-    <img src="./assets/title-contato-light.svg" height="40" alt="Contato">
-  </picture>
-</h3>
-
-Portfólio &nbsp; [matheusantanadev.vercel.app](https://matheusantanadev.vercel.app/)<br>
-LinkedIn &nbsp; [in/matheussantanadev](https://www.linkedin.com/in/matheussantanadev)<br>
-E-mail &nbsp; [matsant.dev@gmail.com](mailto:matsant.dev@gmail.com)
+<p><a href="https://matheusantanadev.vercel.app/">Portfólio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/matheussantanadev">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:matsant.dev@gmail.com">E-mail</a></p>
